@@ -1,0 +1,227 @@
+[15:40:39.277][Logger] New log placeholder %WS1% registered for /home/braceskabane/proposal .
+[15:40:39.277][Extension] Initializing LaTeX Workshop.
+[15:40:39.634][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[15:40:39.694][Server] Creating LaTeX Workshop http and websocket server.
+[15:40:39.825][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[15:40:39.923][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":39161} .
+[15:40:39.969][Extension] Extension root: /home/braceskabane/.vscode-server/extensions/james-yu.latex-workshop-9.20.1
+[15:40:39.970][Extension] $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin
+[15:40:39.971][Extension] $SHELL: /bin/bash
+[15:40:39.972][Extension] $LANG: C.UTF-8
+[15:40:39.972][Extension] $LC_ALL: undefined
+[15:40:39.973][Extension] process.platform: linux
+[15:40:39.973][Extension] process.arch: x64
+[15:40:39.973][Extension] vscode.env.appName: Visual Studio Code
+[15:40:39.974][Extension] vscode.env.remoteName: wsl
+[15:40:39.974][Extension] vscode.env.uiKind: 1
+[15:40:40.039][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[15:40:40.041][Root] Current workspace folders: ["file://%WS1%"]
+[15:40:40.042][Extension] LaTeX Workshop initialized.
+[15:40:40.229][Root] Current workspaceRootDir: file://%WS1% .
+[15:40:40.239][Server] valdOrigin is http://127.0.0.1:39161
+[15:40:40.491][Root] Found files that might be root, choose the first one: %WS1%/main.tex .
+[15:40:40.492][Root] Root file changed: from %WS1%/main.tex to %WS1%/main.tex, langID latex . Refresh dependencies
+[15:40:40.492][Event] ROOT_FILE_CHANGED: "%WS1%/main.tex"
+[15:40:40.493][Cacher][Watcher] Reset.
+[15:40:40.493][Cacher][Watcher] Reset.
+[15:40:40.498][Cacher] Adding %WS1%/main.tex .
+[15:40:40.500][Cacher][Watcher] Watched %WS1%/main.tex with a new .* watcher on %WS1% .
+[15:40:40.500][Event] FILE_WATCHED: "%WS1%/main.tex"
+[15:40:40.503][Cacher] Caching %WS1%/main.tex .
+[15:40:40.505][Cacher] Input %WS1%/pustaka/tanda-hubung.tex from %WS1%/main.tex .
+[15:40:40.505][Cacher] Adding %WS1%/pustaka/tanda-hubung.tex .
+[15:40:40.506][Cacher][Watcher] Watched %WS1%/pustaka/tanda-hubung.tex with a new .* watcher on %WS1%/pustaka .
+[15:40:40.506][Event] FILE_WATCHED: "%WS1%/pustaka/tanda-hubung.tex"
+[15:40:40.506][Cacher] Caching %WS1%/pustaka/tanda-hubung.tex .
+[15:40:40.507][Cacher] Updated inputs of %WS1%/pustaka/tanda-hubung.tex .
+[15:40:40.507][Cacher] Parse LaTeX AST: %WS1%/pustaka/tanda-hubung.tex .
+[15:40:40.508][Cacher] Input %WS1%/sampul/sampul-luar.tex from %WS1%/main.tex .
+[15:40:40.509][Cacher] Adding %WS1%/sampul/sampul-luar.tex .
+[15:40:40.510][Cacher][Watcher] Watched %WS1%/sampul/sampul-luar.tex with a new .* watcher on %WS1%/sampul .
+[15:40:40.510][Event] FILE_WATCHED: "%WS1%/sampul/sampul-luar.tex"
+[15:40:40.511][Cacher] Caching %WS1%/sampul/sampul-luar.tex .
+[15:40:40.511][Cacher] Updated inputs of %WS1%/sampul/sampul-luar.tex .
+[15:40:40.512][Cacher] Parse LaTeX AST: %WS1%/sampul/sampul-luar.tex .
+[15:40:40.512][Cacher] Input %WS1%/lainnya/lembar-pengesahan.tex from %WS1%/main.tex .
+[15:40:40.512][Cacher] Adding %WS1%/lainnya/lembar-pengesahan.tex .
+[15:40:40.513][Cacher][Watcher] Watched %WS1%/lainnya/lembar-pengesahan.tex with a new .* watcher on %WS1%/lainnya .
+[15:40:40.513][Event] FILE_WATCHED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[15:40:40.513][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[15:40:40.514][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[15:40:40.515][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[15:40:40.515][Cacher] Input %WS1%/lainnya/abstrak.tex from %WS1%/main.tex .
+[15:40:40.517][Cacher] Adding %WS1%/lainnya/abstrak.tex .
+[15:40:40.517][Cacher][Watcher] Watched %WS1%/lainnya/abstrak.tex by the .* watcher.
+[15:40:40.517][Event] FILE_WATCHED: "%WS1%/lainnya/abstrak.tex"
+[15:40:40.518][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[15:40:40.518][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[15:40:40.518][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[15:40:40.519][Cacher] Input %WS1%/lainnya/abstrak-en.tex from %WS1%/main.tex .
+[15:40:40.519][Cacher] Adding %WS1%/lainnya/abstrak-en.tex .
+[15:40:40.519][Cacher][Watcher] Watched %WS1%/lainnya/abstrak-en.tex by the .* watcher.
+[15:40:40.519][Event] FILE_WATCHED: "%WS1%/lainnya/abstrak-en.tex"
+[15:40:40.525][Cacher] Caching %WS1%/lainnya/abstrak-en.tex .
+[15:40:40.525][Cacher] Updated inputs of %WS1%/lainnya/abstrak-en.tex .
+[15:40:40.525][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[15:40:40.526][Cacher] Input %WS1%/konten/1-pendahuluan.tex from %WS1%/main.tex .
+[15:40:40.527][Cacher] Adding %WS1%/konten/1-pendahuluan.tex .
+[15:40:40.527][Cacher][Watcher] Watched %WS1%/konten/1-pendahuluan.tex with a new .* watcher on %WS1%/konten .
+[15:40:40.528][Event] FILE_WATCHED: "%WS1%/konten/1-pendahuluan.tex"
+[15:40:40.529][Cacher] Caching %WS1%/konten/1-pendahuluan.tex .
+[15:40:40.529][Cacher] Updated inputs of %WS1%/konten/1-pendahuluan.tex .
+[15:40:40.529][Cacher] Parse LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[15:40:40.530][Cacher] Input %WS1%/konten/2-tinjauan-pustaka.tex from %WS1%/main.tex .
+[15:40:40.530][Cacher] Adding %WS1%/konten/2-tinjauan-pustaka.tex .
+[15:40:40.530][Cacher][Watcher] Watched %WS1%/konten/2-tinjauan-pustaka.tex by the .* watcher.
+[15:40:40.530][Event] FILE_WATCHED: "%WS1%/konten/2-tinjauan-pustaka.tex"
+[15:40:40.531][Cacher] Caching %WS1%/konten/2-tinjauan-pustaka.tex .
+[15:40:40.531][Cacher] Updated inputs of %WS1%/konten/2-tinjauan-pustaka.tex .
+[15:40:40.531][Cacher] Parse LaTeX AST: %WS1%/konten/2-tinjauan-pustaka.tex .
+[15:40:40.531][Cacher] Input %WS1%/konten/3-metodologi.tex from %WS1%/main.tex .
+[15:40:40.532][Cacher] Adding %WS1%/konten/3-metodologi.tex .
+[15:40:40.532][Cacher][Watcher] Watched %WS1%/konten/3-metodologi.tex by the .* watcher.
+[15:40:40.532][Event] FILE_WATCHED: "%WS1%/konten/3-metodologi.tex"
+[15:40:40.533][Cacher] Caching %WS1%/konten/3-metodologi.tex .
+[15:40:40.533][Cacher] Updated inputs of %WS1%/konten/3-metodologi.tex .
+[15:40:40.533][Cacher] Parse LaTeX AST: %WS1%/konten/3-metodologi.tex .
+[15:40:40.534][Cacher] Input %WS1%/konten/4-lainnya.tex from %WS1%/main.tex .
+[15:40:40.534][Cacher] Adding %WS1%/konten/4-lainnya.tex .
+[15:40:40.534][Cacher][Watcher] Watched %WS1%/konten/4-lainnya.tex by the .* watcher.
+[15:40:40.534][Event] FILE_WATCHED: "%WS1%/konten/4-lainnya.tex"
+[15:40:40.535][Cacher] Caching %WS1%/konten/4-lainnya.tex .
+[15:40:40.535][Cacher] Updated inputs of %WS1%/konten/4-lainnya.tex .
+[15:40:40.535][Cacher] Parse LaTeX AST: %WS1%/konten/4-lainnya.tex .
+[15:40:40.536][Cacher] Input %WS1%/konten/5-jadwal-penelitian.tex from %WS1%/main.tex .
+[15:40:40.536][Cacher] Adding %WS1%/konten/5-jadwal-penelitian.tex .
+[15:40:40.536][Cacher][Watcher] Watched %WS1%/konten/5-jadwal-penelitian.tex by the .* watcher.
+[15:40:40.536][Event] FILE_WATCHED: "%WS1%/konten/5-jadwal-penelitian.tex"
+[15:40:40.537][Cacher] Caching %WS1%/konten/5-jadwal-penelitian.tex .
+[15:40:40.537][Cacher] Updated inputs of %WS1%/konten/5-jadwal-penelitian.tex .
+[15:40:40.537][Cacher] Parse LaTeX AST: %WS1%/konten/5-jadwal-penelitian.tex .
+[15:40:40.537][Cacher] Updated inputs of %WS1%/main.tex .
+[15:40:40.538][Cacher] Parse LaTeX AST: %WS1%/main.tex .
+[15:40:40.538][Event] ROOT_FILE_SEARCHED
+[15:40:40.543][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:39161/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZicmFjZXNrYWJhbmUlMkZwcm9wb3NhbCUyRm1haW4ucGRm .
+[15:40:40.543][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:39161/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZicmFjZXNrYWJhbmUlMkZwcm9wb3NhbCUyRm1haW4ucGRm .
+[15:40:40.545][Cacher][Watcher] Watched %WS1%/main.pdf with a new .pdf watcher on %WS1% .
+[15:40:40.545][Event] FILE_WATCHED: "%WS1%/main.pdf"
+[15:40:40.545][Cacher][Watcher] Watched %WS1%/main.pdf by the .pdf watcher.
+[15:40:40.546][Event] FILE_WATCHED: "%WS1%/main.pdf"
+[15:40:40.585][Cacher] Parsed LaTeX AST: %WS1%/pustaka/tanda-hubung.tex .
+[15:40:40.587][Cacher] Updated elements in 1.86 ms: %WS1%/pustaka/tanda-hubung.tex .
+[15:40:40.588][Event] FILE_PARSED: "%WS1%/pustaka/tanda-hubung.tex"
+[15:40:40.607][Cacher] Parsed LaTeX AST: %WS1%/sampul/sampul-luar.tex .
+[15:40:40.609][Cacher] Updated elements in 1.69 ms: %WS1%/sampul/sampul-luar.tex .
+[15:40:40.610][Event] FILE_PARSED: "%WS1%/sampul/sampul-luar.tex"
+[15:40:40.674][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[15:40:40.677][Cacher] Updated elements in 1.57 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[15:40:40.678][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[15:40:40.692][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[15:40:40.693][Cacher] Updated elements in 0.89 ms: %WS1%/lainnya/abstrak.tex .
+[15:40:40.694][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[15:40:40.736][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[15:40:40.738][Cacher] Updated elements in 0.66 ms: %WS1%/lainnya/abstrak-en.tex .
+[15:40:40.739][Event] FILE_PARSED: "%WS1%/lainnya/abstrak-en.tex"
+[15:40:40.875][Cacher] Parsed LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[15:40:40.883][Cacher] Updated elements in 7.20 ms: %WS1%/konten/1-pendahuluan.tex .
+[15:40:40.883][Event] FILE_PARSED: "%WS1%/konten/1-pendahuluan.tex"
+[15:40:40.885][Cacher] Parsed LaTeX AST: %WS1%/konten/2-tinjauan-pustaka.tex .
+[15:40:40.898][Cacher] Updated elements in 12.69 ms: %WS1%/konten/2-tinjauan-pustaka.tex .
+[15:40:40.899][Event] FILE_PARSED: "%WS1%/konten/2-tinjauan-pustaka.tex"
+[15:40:40.900][Cacher] Parsed LaTeX AST: %WS1%/konten/3-metodologi.tex .
+[15:40:40.901][Cacher] Updated elements in 0.41 ms: %WS1%/konten/3-metodologi.tex .
+[15:40:40.901][Event] FILE_PARSED: "%WS1%/konten/3-metodologi.tex"
+[15:40:40.956][Cacher] Parsed LaTeX AST: %WS1%/konten/4-lainnya.tex .
+[15:40:40.958][Cacher] Updated elements in 0.95 ms: %WS1%/konten/4-lainnya.tex .
+[15:40:40.959][Event] FILE_PARSED: "%WS1%/konten/4-lainnya.tex"
+[15:40:41.003][Cacher] Parsed LaTeX AST: %WS1%/konten/5-jadwal-penelitian.tex .
+[15:40:41.006][Cacher] Updated elements in 2.48 ms: %WS1%/konten/5-jadwal-penelitian.tex .
+[15:40:41.007][Event] FILE_PARSED: "%WS1%/konten/5-jadwal-penelitian.tex"
+[15:40:41.099][Cacher] Parsed LaTeX AST: %WS1%/main.tex .
+[15:40:41.099][File] Calling kpsewhich to resolve book.cls .
+[15:40:41.242][File] kpsewhich returned with '/usr/share/texlive/texmf-dist/tex/latex/base/book.cls'.
+[15:40:41.253][Cacher] Bib %WS1%/pustaka/pustaka.bib from %WS1%/main.tex .
+[15:40:41.254][Intelli][Citation] Parsing .bib entries from %WS1%/pustaka/pustaka.bib
+[15:40:41.255][Intelli][Citation] Parse BibTeX AST from %WS1%/pustaka/pustaka.bib .
+[15:40:41.256][Cacher][Watcher] Watched %WS1%/pustaka/pustaka.bib with a new .bib watcher on %WS1%/pustaka .
+[15:40:41.256][Event] FILE_WATCHED: "%WS1%/pustaka/pustaka.bib"
+[15:40:41.256][Cacher] Updated elements in 157.02 ms: %WS1%/main.tex .
+[15:40:41.257][Event] FILE_PARSED: "%WS1%/main.tex"
+[15:40:41.258][Cacher] Parsing .fls %WS1%/main.fls .
+[15:40:41.274][Cacher] Adding %WS1%/sampul/konten-id.tex .
+[15:40:41.274][Cacher][Watcher] Watched %WS1%/sampul/konten-id.tex by the .* watcher.
+[15:40:41.274][Event] FILE_WATCHED: "%WS1%/sampul/konten-id.tex"
+[15:40:41.274][Cacher] Found %WS1%/sampul/konten-id.tex from .fls %WS1%/main.fls , caching.
+[15:40:41.275][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[15:40:41.275][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[15:40:41.275][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[15:40:41.276][Cacher] Adding %WS1%/sampul/gambar/sampul-luar-tipis.png .
+[15:40:41.277][Cacher][Watcher] Watched %WS1%/sampul/gambar/sampul-luar-tipis.png with a new .* watcher on %WS1%/sampul/gambar .
+[15:40:41.277][Event] FILE_WATCHED: "%WS1%/sampul/gambar/sampul-luar-tipis.png"
+[15:40:41.289][Cacher] Adding %WS1%/gambar/blueprint.jpg .
+[15:40:41.289][Cacher][Watcher] Watched %WS1%/gambar/blueprint.jpg with a new .* watcher on %WS1%/gambar .
+[15:40:41.289][Event] FILE_WATCHED: "%WS1%/gambar/blueprint.jpg"
+[15:40:41.291][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[15:40:41.293][Cacher] Parsed .aux %WS1%/main.tex .
+[15:40:41.293][Cacher] Parsed .fls %WS1%/main.fls .
+[15:40:41.297][Structure] Structure force updated with 0 root sections for %WS1%/main.tex .
+[15:40:41.298][Event] STRUCTURE_UPDATED
+[15:40:41.300][Intelli][Citation] Parsed 11 bib entries from %WS1%/pustaka/pustaka.bib .
+[15:40:41.301][Event] FILE_PARSED: "%WS1%/pustaka/pustaka.bib"
+[15:40:41.307][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[15:40:41.308][Event] STRUCTURE_UPDATED
+[15:40:41.310][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[15:40:41.311][Cacher] Updated elements in 0.80 ms: %WS1%/sampul/konten-id.tex .
+[15:40:41.313][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[15:40:41.315][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[15:40:41.316][Event] STRUCTURE_UPDATED
+[15:40:41.505][Viewer] Handle data type: open
+[15:40:41.641][Server] Preview PDF file: file://%WS1%/main.pdf
+[15:40:42.164][Viewer] Handle data type: loaded
+[15:40:42.165][Event] VIEWER_PAGE_LOADED
+[15:40:42.658][Cacher] Error loading cache: %WS1%/lainnya/lembar-pengesahan-en.tex . Forcing.
+[15:40:42.659][Cacher] Caching %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.660][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.660][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.661][Cacher] Error loading cache: %WS1%/lainnya/lembar-pengesahan-en.tex . Forcing.
+[15:40:42.661][Cacher] Caching %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.661][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.661][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.662][Cacher] Error loading cache: %WS1%/lainnya/lembar-pengesahan-en.tex . Forcing.
+[15:40:42.662][Cacher] Caching %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.662][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.663][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.680][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.682][Cacher] Updated elements in 1.64 ms: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.683][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan-en.tex"
+[15:40:42.683][Structure][LaTeX] Error loading AST during structuring: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.704][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.705][Cacher] Updated elements in 0.86 ms: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.706][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan-en.tex"
+[15:40:42.707][Structure][LaTeX] Error loading AST during structuring: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.720][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.722][Cacher] Updated elements in 1.88 ms: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[15:40:42.723][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan-en.tex"
+[15:40:42.725][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[15:40:42.725][Event] STRUCTURE_UPDATED
+[15:40:54.393][Root] Current workspace folders: ["file://%WS1%"]
+[15:40:54.395][Root] Current workspaceRootDir: file://%WS1% .
+[15:40:54.511][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[15:40:54.511][Root] Keep using the same root file: %WS1%/main.tex
+[15:40:54.512][Event] ROOT_FILE_SEARCHED
+[15:40:54.512][Event] STRUCTURE_UPDATED
+[15:40:54.512][Event] STRUCTURE_UPDATED
+[15:40:55.048][Root] Current workspace folders: ["file://%WS1%"]
+[15:40:55.049][Root] Keep using the same root file: %WS1%/main.tex
+[15:40:55.050][Event] ROOT_FILE_SEARCHED
+[15:40:55.050][Event] STRUCTURE_UPDATED
+[15:40:55.051][Event] STRUCTURE_UPDATED
+[15:40:56.403][Cacher] Error loading cache: %WS1%/sampul/konten-en.tex . Forcing.
+[15:40:56.406][Cacher] Caching %WS1%/sampul/konten-en.tex .
+[15:40:56.408][Cacher] Updated inputs of %WS1%/sampul/konten-en.tex .
+[15:40:56.409][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-en.tex .
+[15:40:56.441][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-en.tex .
+[15:40:56.442][Cacher] Updated elements in 1.11 ms: %WS1%/sampul/konten-en.tex .
+[15:40:56.442][Event] FILE_PARSED: "%WS1%/sampul/konten-en.tex"
+[15:40:56.444][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[15:40:56.445][Event] STRUCTURE_UPDATED

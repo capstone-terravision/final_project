@@ -1,0 +1,1396 @@
+ReadyRc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx)
+No file main.bbl.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8]
+No file main.toc.
+[9] [10]
+No file main.lof.
+[11] [12]
+No file main.lot.
+[13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+
+LaTeX Warning: Citation 'Newton1687' on page 3 undefined on input line 12.
+
+
+LaTeX Warning: Reference `eq:FirstLaw' on page 3 undefined on input line 14.
+
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+
+LaTeX Warning: Citation 'SpaceXBlueprint' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'SpaceXBlueprint' on page 5 undefined on input line 14.
+
+
+LaTeX Warning: Reference `fig:Blueprint' on page 5 undefined on input line 20.
+
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+
+LaTeX Warning: Reference `tbl:timeline' on page 9 undefined on input line 36.
+
+) [9] [10]
+
+LaTeX Warning: Empty bibliography on input line 175.
+
+[11] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+ )</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 290294 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Missing bbl file 'main.bbl' in following:
+ No file main.bbl.
+Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: applying rule 'biber main'...
+Rule 'biber main':  Reasons for rerun
+Category 'other':
+  Rerun of 'biber main' forced or previously required:
+    Reason or flag: 'Initial set up of rule'
+
+------------
+Run number 1 of rule 'biber main'
+------------
+------------
+Running 'biber  "main.bcf"'
+------------
+INFO - This is Biber 2.19
+INFO - Logfile is 'main.blg'
+INFO - Reading 'main.bcf'
+INFO - Found 2 citekeys in bib section 0
+INFO - Processing section 0
+INFO - Looking for bibtex file 'pustaka/pustaka.bib' for section 0
+INFO - LaTeX decoding ...
+INFO - Found BibTeX data source 'pustaka/pustaka.bib'
+INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+INFO - No sort tailoring available for locale 'en-US'
+INFO - Writing 'main.bbl' with encoding 'UTF-8'
+INFO - Output to main.bbl
+WARN - BibTeX subsystem: /tmp/biber_tmp_luLX/edf1f315de8056cfaef35fb8874dd844_10856.utf8, line 8, warning: 359 characters of junk seen at toplevel
+INFO - WARNINGS: 1
+Biber warning: [183] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_luLX/edf1f315de8056cfaef35fb8874dd844_10856.utf8, line 8, warning: 359 characters of junk seen at toplevel
+Latexmk: Found biber source file(s) [main.bcf, pustaka/pustaka.bib]
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  main.aux
+  main.bbl
+  main.lof
+  main.lot
+  main.out
+  main.toc
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301033 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: applying rule 'biber main'...
+Rule 'biber main':  Reasons for rerun
+Changed files or newly in use/created:
+  main.bcf
+
+------------
+Run number 2 of rule 'biber main'
+------------
+------------
+Running 'biber  "main.bcf"'
+------------
+INFO - This is Biber 2.19
+INFO - Logfile is 'main.blg'
+INFO - Reading 'main.bcf'
+INFO - Found 2 citekeys in bib section 0
+INFO - Processing section 0
+INFO - Looking for bibtex file 'pustaka/pustaka.bib' for section 0
+INFO - LaTeX decoding ...
+INFO - Found BibTeX data source 'pustaka/pustaka.bib'
+INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+INFO - No sort tailoring available for locale 'en-US'
+INFO - Writing 'main.bbl' with encoding 'UTF-8'
+INFO - Output to main.bbl
+WARN - BibTeX subsystem: /tmp/biber_tmp_t_9m/edf1f315de8056cfaef35fb8874dd844_10866.utf8, line 8, warning: 359 characters of junk seen at toplevel
+INFO - WARNINGS: 1
+Biber warning: [164] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_t_9m/edf1f315de8056cfaef35fb8874dd844_10866.utf8, line 8, warning: 359 characters of junk seen at toplevel
+Latexmk: Found biber source file(s) [main.bcf, pustaka/pustaka.bib]
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  main.aux
+  main.bbl
+  main.run.xml
+
+------------
+Run number 3 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301033 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  main.aux
+  main.run.xml
+
+------------
+Run number 4 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301033 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/braceskabane/proposal/main.tex
+  main.tex
+Category 'changed_user':
+  /home/braceskabane/proposal/main.tex
+  main.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301442 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/abstrak-en.tex
+Category 'changed_user':
+  lainnya/abstrak-en.tex
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301474 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/abstrak.tex
+Category 'changed_user':
+  lainnya/abstrak.tex
+
+------------
+Run number 3 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301474 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/lembar-pengesahan.tex
+Category 'changed_user':
+  lainnya/lembar-pengesahan.tex
+
+------------
+Run number 4 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301515 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: Nothing to do for '/home/braceskabane/proposal/main.tex'.
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: Nothing to do for '/home/braceskabane/proposal/main.tex'.
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  sampul/konten-id.tex
+Category 'changed_user':
+  sampul/konten-id.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301886 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/abstrak-en.tex
+  lainnya/abstrak.tex
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+Category 'changed_user':
+  lainnya/abstrak-en.tex
+  lainnya/abstrak.tex
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 302036 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/abstrak-en.tex
+  lainnya/abstrak.tex
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+Category 'changed_user':
+  lainnya/abstrak-en.tex
+  lainnya/abstrak.tex
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301618 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  sampul/konten-id.tex
+Category 'changed_user':
+  sampul/konten-id.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301930 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+Category 'changed_user':
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301930 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  sampul/konten-id.tex
+Category 'changed_user':
+  sampul/konten-id.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301915 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+Category 'changed_user':
+  lainnya/lembar-pengesahan.tex
+  sampul/konten-id.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301913 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/lembar-pengesahan.tex
+Category 'changed_user':
+  lainnya/lembar-pengesahan.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301903 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/lembar-pengesahan.tex
+Category 'changed_user':
+  lainnya/lembar-pengesahan.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301903 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/lembar-pengesahan.tex
+Category 'changed_user':
+  lainnya/lembar-pengesahan.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 301903 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: Nothing to do for '/home/braceskabane/proposal/main.tex'.
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: Nothing to do for '/home/braceskabane/proposal/main.tex'.
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/abstrak-en.tex
+  lainnya/abstrak.tex
+Category 'changed_user':
+  lainnya/abstrak-en.tex
+  lainnya/abstrak.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 302043 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  lainnya/abstrak.tex
+Category 'changed_user':
+  lainnya/abstrak.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+) [1] [2] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [3] [4] (./konten/3-metodologi.tex
+Chapter 3.
+) [5 <./gambar/blueprint.jpg>] [6] (./konten/4-lainnya.tex
+Chapter 4.
+) [7] [8] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [9] [10] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd) [11] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (25 pages, 302045 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: All targets (main.pdf) are up-to-date
+

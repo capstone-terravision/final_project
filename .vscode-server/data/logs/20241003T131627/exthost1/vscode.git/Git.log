@@ -1,0 +1,26 @@
+2024-10-03 13:16:33.680 [info] Log level: Info
+2024-10-03 13:16:33.680 [info] Validating found git in: "git"
+2024-10-03 13:16:33.680 [info] Using git "2.43.0" from "git"
+2024-10-03 13:16:33.680 [info] > git rev-parse --show-toplevel [11ms]
+2024-10-03 13:16:33.684 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-10-03 13:16:33.691 [info] Open repository: /home/braceskabane/proposal
+2024-10-03 13:16:33.702 [info] > git rev-parse --show-toplevel [7ms]
+2024-10-03 13:16:33.706 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-03 13:16:33.712 [info] > git config --get commit.template [10ms]
+2024-10-03 13:16:33.713 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-03 13:16:33.721 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-03 13:16:33.724 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-03 13:16:33.729 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-03 13:16:33.733 [info] > git status -z -uall --find-renames=50% [6ms]
+2024-10-03 13:16:33.742 [info] > git rev-parse --show-toplevel [9ms]
+2024-10-03 13:16:33.747 [info] > git config --get commit.template [4ms]
+2024-10-03 13:16:33.751 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-03 13:16:33.756 [info] > git status -z -uall --find-renames=50% [2ms]
+2024-10-03 13:16:34.202 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-03 13:16:37.037 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-03 13:16:38.054 [info] > git show --textconv :main.tex [4ms]
+2024-10-03 13:16:38.055 [info] > git ls-files --stage -- /home/braceskabane/proposal/main.tex [2ms]
+2024-10-03 13:16:38.059 [info] > git cat-file -s 5080748170742dec3aea18e79fb5b479a941898a [1ms]
+2024-10-03 13:18:42.650 [info] > git show --textconv :main.tex [8ms]
+2024-10-03 13:18:42.651 [info] > git ls-files --stage -- /home/braceskabane/proposal/main.tex [2ms]
+2024-10-03 13:18:42.658 [info] > git cat-file -s 5080748170742dec3aea18e79fb5b479a941898a [1ms]

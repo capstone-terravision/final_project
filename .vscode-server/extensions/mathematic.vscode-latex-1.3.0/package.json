@@ -1,0 +1,322 @@
+{
+	"name": "vscode-latex",
+	"displayName": "LaTeX",
+	"description": "LaTeX language support for Visual Studio Code.",
+	"version": "1.3.0",
+	"engines": {
+		"vscode": "^1.58.1"
+	},
+	"icon": "icon.png",
+	"publisher": "mathematic",
+	"categories": [
+		"Programming Languages",
+		"Formatters",
+		"Snippets",
+		"Linters"
+	],
+	"activationEvents": [
+		"onLanguage:tex",
+		"onLanguage:latex",
+		"onLanguage:latex-expl3",
+		"onLanguage:doctex",
+		"onLanguage:jlweave",
+		"onLanguage:rsweave",
+		"onLanguage:bibtex"
+	],
+	"license": "Apache-2.0",
+	"main": "./dist/extension.js",
+	"contributes": {
+		"languages": [
+			{
+				"id": "tex",
+				"aliases": [
+					"TeX",
+					"tex"
+				],
+				"extensions": [
+					".sty",
+					".cls",
+					".bbx",
+					".cbx"
+				],
+				"configuration": "./syntax/syntax.json"
+			},
+			{
+				"id": "doctex",
+				"aliases": [
+					"DocTeX",
+					"doctex"
+				],
+				"extensions": [
+					".dtx"
+				],
+				"configuration": "./syntax/syntax-doctex.json"
+			},
+			{
+				"id": "latex",
+				"aliases": [
+					"LaTeX",
+					"latex"
+				],
+				"extensions": [
+					".tex",
+					".ltx",
+					".ctx"
+				],
+				"configuration": "./syntax/syntax.json"
+			},
+			{
+				"id": "bibtex",
+				"aliases": [
+					"BibTeX",
+					"bibtex"
+				],
+				"extensions": [
+					".bib"
+				]
+			},
+			{
+				"id": "bibtex-style",
+				"aliases": [
+					"BibTeX style"
+				],
+				"extensions": [
+					".bst"
+				]
+			},
+			{
+				"id": "latex-expl3",
+				"aliases": [
+					"LaTeX-Expl3"
+				],
+				"configuration": "./syntax/syntax-expl3.json"
+			},
+			{
+				"id": "jlweave",
+				"aliases": [
+					"Weave.jl"
+				],
+				"extensions": [
+					".jnw",
+					".jtexw"
+				],
+				"configuration": "./syntax/syntax-weave.json"
+			},
+			{
+				"id": "rsweave",
+				"aliases": [
+					"R Sweave"
+				],
+				"extensions": [
+					".rnw",
+					".Rnw",
+					".Rtex",
+					".rtex",
+					".snw",
+					".Snw"
+				],
+				"configuration": "./syntax/syntax-weave.json"
+			},
+			{
+				"id": "cpp_embedded_latex",
+				"configuration": "./syntax/syntax-cpp-embedded.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "tex",
+				"scopeName": "text.tex",
+				"path": "./syntax/TeX.tmLanguage.json"
+			},
+			{
+				"language": "doctex",
+				"scopeName": "text.tex.doctex",
+				"path": "./syntax/DocTeX.tmLanguage.json"
+			},
+			{
+				"language": "latex",
+				"scopeName": "text.tex.latex",
+				"path": "./syntax/LaTeX.tmLanguage.json",
+				"embeddedLanguages": {
+					"source.asymptote": "asymptote",
+					"source.cpp": "cpp_embedded_latex",
+					"source.css": "css",
+					"source.dot": "dot",
+					"source.gnuplot": "gnuplot",
+					"text.html": "html",
+					"source.java": "java",
+					"source.js": "javascript",
+					"source.julia": "julia",
+					"source.lua": "lua",
+					"source.python": "python",
+					"source.ruby": "ruby",
+					"source.scala": "scala",
+					"source.ts": "typescript",
+					"text.xml": "xml",
+					"source.yaml": "yaml"
+				}
+			},
+			{
+				"language": "bibtex",
+				"scopeName": "text.bibtex",
+				"path": "./syntax/Bibtex.tmLanguage.json"
+			},
+			{
+				"language": "bibtex-style",
+				"scopeName": "source.bst",
+				"path": "./syntax/BibTeX-style.tmLanguage.json"
+			},
+			{
+				"language": "latex-expl3",
+				"scopeName": "text.tex.latex.expl3",
+				"path": "./syntax/LaTeX-Expl3.tmLanguage.json"
+			},
+			{
+				"scopeName": "markdown.latex.codeblock",
+				"path": "./syntax/latexblock.json",
+				"injectTo": [
+					"text.html.markdown"
+				],
+				"embeddedLanguages": {
+					"meta.embedded.block.latex": "latex",
+					"meta.embedded.block.bibtex": "bibtex"
+				}
+			},
+			{
+				"language": "cpp_embedded_latex",
+				"scopeName": "source.cpp.embedded.latex",
+				"path": "./syntax/cpp-grammar-bailout.tmLanguage.json",
+				"embeddedLanguages": {
+					"meta.embedded.assembly.cpp": "asm"
+				}
+			},
+			{
+				"language": "jlweave",
+				"scopeName": "text.tex.latex.jlweave",
+				"path": "./syntax/JLweave.tmLanguage.json",
+				"embeddedLanguages": {
+					"source.julia": "julia"
+				}
+			},
+			{
+				"language": "rsweave",
+				"scopeName": "text.tex.latex.rsweave",
+				"path": "./syntax/RSweave.tmLanguage.json",
+				"embeddedLanguages": {
+					"source.r": "r"
+				}
+			}
+		],
+		"snippets": [
+			{
+				"language": "latex",
+				"path": "./snippets/latex.json"
+			},
+			{
+				"language": "jlweave",
+				"path": "./snippets/latex.json"
+			},
+			{
+				"language": "rsweave",
+				"path": "./snippets/latex.json"
+			},
+			{
+				"language": "latex-expl3",
+				"path": "./snippets/latex.json"
+			}
+		],
+		"capabilities": {
+			"documentFormattingProvider": "true",
+			"untrustedWorkspaces": {
+				"supported": true,
+				"description": "The extension and its dependencies don't parse forever."
+			}
+		},
+		"configuration": {
+			"title": "LaTeX",
+			"properties": {
+				"latex.linter.enabled": {
+					"type": "boolean",
+					"default": true,
+					"markdownDescription": "Enables the linter."
+				},
+				"latex.linter.delay": {
+					"type": "number",
+					"default": 1000,
+					"markdownDescription": "Duration (in ms) to delay linting during contiguous typing."
+				},
+				"latex.linter.timeout": {
+					"type": "number",
+					"default": 10000,
+					"markdownDescription": "Amount of time (in ms) to wait for the linter to finish."
+				},
+				"latex.linter.config": {
+					"type": "string",
+					"default": "",
+					"markdownDescription": "Absolute/relative path to the configuration file for the linter. Default behavior is to search the directory (or parents) of the file (or the workspace) till a configuration is found. See the extension's description."
+				},
+				"latex.linter.path": {
+					"type": "string",
+					"default": "",
+					"markdownDescription": "Absolute/relative path to the linter executable. Default behavior is to find the system's executable if it exists."
+				},
+				"latex.formatter.columnLimit": {
+					"type": "number",
+					"default": 80,
+					"markdownDescription": "Column limit for a given line.\n\nA column limit of `0` means that there is no column limit. This is overriden if a configuration file is found in some parent of the file."
+				},
+				"latex.formatter.config": {
+					"type": "string",
+					"default": "",
+					"markdownDescription": "Absolute/relative path to the configuration file for the formatter. Must end in `.yaml`. Default behavior is to search the directory (or parents) of the file (or the workspace) till a configuration is found. See the extension's description."
+				},
+				"latex.formatter.path": {
+					"type": "string",
+					"default": "",
+					"markdownDescription": "Absolute/relative path to the formatter executable. Default behavior is to find the system's executable if it exists."
+				},
+				"latex.formatter.timeout": {
+					"type": "number",
+					"default": 10000,
+					"markdownDescription": "Amount of time (in ms) to wait for the formatter to finish."
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "yarn run package",
+		"compile": "webpack",
+		"watch": "webpack --watch",
+		"package": "yarn run copy && webpack --mode production --devtool hidden-source-map",
+		"test-compile": "tsc -p ./",
+		"test-watch": "tsc -watch -p ./",
+		"pretest": "yarn run test-compile && yarn run lint",
+		"lint": "eslint src --ext ts",
+		"copy": "cp -R third_party/LaTeX-Workshop/snippets . && cp -R third_party/LaTeX-Workshop/syntax ."
+	},
+	"devDependencies": {
+		"@types/mocha": "^10.0.2",
+		"@types/node": "16.x",
+		"@types/vscode": "^1.58.1",
+		"@typescript-eslint/eslint-plugin": "^6.7.4",
+		"@typescript-eslint/parser": "^6.7.4",
+		"@vscode/test-electron": "^2.3.5",
+		"eslint": "^8.51.0",
+		"mocha": "^10.2.0",
+		"ts-loader": "^9.5.0",
+		"typescript": "^5.2.2",
+		"webpack": "^5.88.2",
+		"webpack-cli": "^5.1.4"
+	},
+	"packageManager": "yarn@3.6.4",
+	"__metadata": {
+		"id": "5cb26d81-4679-472b-84c4-59d4ea4b8a0b",
+		"publisherId": "be393c41-1297-44dc-80a7-b6daffa59fdf",
+		"publisherDisplayName": "Mathematic Inc",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1727936311196,
+		"preRelease": false
+	}
+}

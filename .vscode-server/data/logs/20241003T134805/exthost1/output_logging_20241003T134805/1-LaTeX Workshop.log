@@ -1,0 +1,1205 @@
+[13:48:06.867][Logger] New log placeholder %WS1% registered for /home/braceskabane/proposal .
+[13:48:06.867][Extension] Initializing LaTeX Workshop.
+[13:48:07.147][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[13:48:07.214][Server] Creating LaTeX Workshop http and websocket server.
+[13:48:07.310][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[13:48:07.380][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":35009} .
+[13:48:07.437][Extension] Extension root: /home/braceskabane/.vscode-server/extensions/james-yu.latex-workshop-9.20.1
+[13:48:07.437][Extension] $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/Microsoft.PowerShell_7.4.5.0_x64__8wekyb3d8bbwe:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/snap/bin
+[13:48:07.437][Extension] $SHELL: /bin/bash
+[13:48:07.437][Extension] $LANG: C.UTF-8
+[13:48:07.437][Extension] $LC_ALL: undefined
+[13:48:07.437][Extension] process.platform: linux
+[13:48:07.438][Extension] process.arch: x64
+[13:48:07.438][Extension] vscode.env.appName: Visual Studio Code
+[13:48:07.438][Extension] vscode.env.remoteName: wsl
+[13:48:07.438][Extension] vscode.env.uiKind: 1
+[13:48:07.477][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[13:48:07.479][Root] Current workspace folders: ["file://%WS1%"]
+[13:48:07.480][Extension] LaTeX Workshop initialized.
+[13:48:07.621][Root] Found root file from active editor: %WS1%/main.tex
+[13:48:07.622][Root] Root file changed: from %WS1%/main.tex to %WS1%/main.tex, langID latex . Refresh dependencies
+[13:48:07.622][Event] ROOT_FILE_CHANGED: "%WS1%/main.tex"
+[13:48:07.622][Cacher][Watcher] Reset.
+[13:48:07.623][Cacher][Watcher] Reset.
+[13:48:07.627][Cacher] Adding %WS1%/main.tex .
+[13:48:07.628][Cacher][Watcher] Watched %WS1%/main.tex with a new .* watcher on %WS1% .
+[13:48:07.628][Event] FILE_WATCHED: "%WS1%/main.tex"
+[13:48:07.630][Cacher] Caching %WS1%/main.tex .
+[13:48:07.631][Cacher] Input %WS1%/pustaka/tanda-hubung.tex from %WS1%/main.tex .
+[13:48:07.632][Cacher] Adding %WS1%/pustaka/tanda-hubung.tex .
+[13:48:07.632][Cacher][Watcher] Watched %WS1%/pustaka/tanda-hubung.tex with a new .* watcher on %WS1%/pustaka .
+[13:48:07.632][Event] FILE_WATCHED: "%WS1%/pustaka/tanda-hubung.tex"
+[13:48:07.633][Cacher] Caching %WS1%/pustaka/tanda-hubung.tex .
+[13:48:07.633][Cacher] Updated inputs of %WS1%/pustaka/tanda-hubung.tex .
+[13:48:07.634][Cacher] Parse LaTeX AST: %WS1%/pustaka/tanda-hubung.tex .
+[13:48:07.634][Cacher] Input %WS1%/sampul/sampul-luar.tex from %WS1%/main.tex .
+[13:48:07.635][Cacher] Adding %WS1%/sampul/sampul-luar.tex .
+[13:48:07.635][Cacher][Watcher] Watched %WS1%/sampul/sampul-luar.tex with a new .* watcher on %WS1%/sampul .
+[13:48:07.635][Event] FILE_WATCHED: "%WS1%/sampul/sampul-luar.tex"
+[13:48:07.635][Cacher] Caching %WS1%/sampul/sampul-luar.tex .
+[13:48:07.636][Cacher] Updated inputs of %WS1%/sampul/sampul-luar.tex .
+[13:48:07.636][Cacher] Parse LaTeX AST: %WS1%/sampul/sampul-luar.tex .
+[13:48:07.636][Cacher] Input %WS1%/lainnya/lembar-pengesahan.tex from %WS1%/main.tex .
+[13:48:07.637][Cacher] Adding %WS1%/lainnya/lembar-pengesahan.tex .
+[13:48:07.637][Cacher][Watcher] Watched %WS1%/lainnya/lembar-pengesahan.tex with a new .* watcher on %WS1%/lainnya .
+[13:48:07.637][Event] FILE_WATCHED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:48:07.638][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[13:48:07.638][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[13:48:07.638][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:48:07.639][Cacher] Input %WS1%/lainnya/abstrak.tex from %WS1%/main.tex .
+[13:48:07.639][Cacher] Adding %WS1%/lainnya/abstrak.tex .
+[13:48:07.639][Cacher][Watcher] Watched %WS1%/lainnya/abstrak.tex by the .* watcher.
+[13:48:07.639][Event] FILE_WATCHED: "%WS1%/lainnya/abstrak.tex"
+[13:48:07.640][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[13:48:07.640][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[13:48:07.640][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:48:07.641][Cacher] Input %WS1%/lainnya/abstrak-en.tex from %WS1%/main.tex .
+[13:48:07.645][Cacher] Adding %WS1%/lainnya/abstrak-en.tex .
+[13:48:07.646][Cacher][Watcher] Watched %WS1%/lainnya/abstrak-en.tex by the .* watcher.
+[13:48:07.646][Event] FILE_WATCHED: "%WS1%/lainnya/abstrak-en.tex"
+[13:48:07.647][Cacher] Caching %WS1%/lainnya/abstrak-en.tex .
+[13:48:07.648][Cacher] Updated inputs of %WS1%/lainnya/abstrak-en.tex .
+[13:48:07.648][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:48:07.648][Cacher] Input %WS1%/konten/1-pendahuluan.tex from %WS1%/main.tex .
+[13:48:07.648][Cacher] Adding %WS1%/konten/1-pendahuluan.tex .
+[13:48:07.649][Cacher][Watcher] Watched %WS1%/konten/1-pendahuluan.tex with a new .* watcher on %WS1%/konten .
+[13:48:07.649][Event] FILE_WATCHED: "%WS1%/konten/1-pendahuluan.tex"
+[13:48:07.649][Cacher] Caching %WS1%/konten/1-pendahuluan.tex .
+[13:48:07.650][Cacher] Updated inputs of %WS1%/konten/1-pendahuluan.tex .
+[13:48:07.650][Cacher] Parse LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[13:48:07.650][Cacher] Input %WS1%/konten/2-tinjauan-pustaka.tex from %WS1%/main.tex .
+[13:48:07.651][Cacher] Adding %WS1%/konten/2-tinjauan-pustaka.tex .
+[13:48:07.651][Cacher][Watcher] Watched %WS1%/konten/2-tinjauan-pustaka.tex by the .* watcher.
+[13:48:07.651][Event] FILE_WATCHED: "%WS1%/konten/2-tinjauan-pustaka.tex"
+[13:48:07.652][Cacher] Caching %WS1%/konten/2-tinjauan-pustaka.tex .
+[13:48:07.652][Cacher] Updated inputs of %WS1%/konten/2-tinjauan-pustaka.tex .
+[13:48:07.652][Cacher] Parse LaTeX AST: %WS1%/konten/2-tinjauan-pustaka.tex .
+[13:48:07.652][Cacher] Input %WS1%/konten/3-metodologi.tex from %WS1%/main.tex .
+[13:48:07.653][Cacher] Adding %WS1%/konten/3-metodologi.tex .
+[13:48:07.653][Cacher][Watcher] Watched %WS1%/konten/3-metodologi.tex by the .* watcher.
+[13:48:07.653][Event] FILE_WATCHED: "%WS1%/konten/3-metodologi.tex"
+[13:48:07.654][Cacher] Caching %WS1%/konten/3-metodologi.tex .
+[13:48:07.654][Cacher] Updated inputs of %WS1%/konten/3-metodologi.tex .
+[13:48:07.654][Cacher] Parse LaTeX AST: %WS1%/konten/3-metodologi.tex .
+[13:48:07.654][Cacher] Input %WS1%/konten/4-lainnya.tex from %WS1%/main.tex .
+[13:48:07.655][Cacher] Adding %WS1%/konten/4-lainnya.tex .
+[13:48:07.655][Cacher][Watcher] Watched %WS1%/konten/4-lainnya.tex by the .* watcher.
+[13:48:07.655][Event] FILE_WATCHED: "%WS1%/konten/4-lainnya.tex"
+[13:48:07.656][Cacher] Caching %WS1%/konten/4-lainnya.tex .
+[13:48:07.656][Cacher] Updated inputs of %WS1%/konten/4-lainnya.tex .
+[13:48:07.656][Cacher] Parse LaTeX AST: %WS1%/konten/4-lainnya.tex .
+[13:48:07.656][Cacher] Input %WS1%/konten/5-jadwal-penelitian.tex from %WS1%/main.tex .
+[13:48:07.657][Cacher] Adding %WS1%/konten/5-jadwal-penelitian.tex .
+[13:48:07.657][Cacher][Watcher] Watched %WS1%/konten/5-jadwal-penelitian.tex by the .* watcher.
+[13:48:07.657][Event] FILE_WATCHED: "%WS1%/konten/5-jadwal-penelitian.tex"
+[13:48:07.657][Cacher] Caching %WS1%/konten/5-jadwal-penelitian.tex .
+[13:48:07.658][Cacher] Updated inputs of %WS1%/konten/5-jadwal-penelitian.tex .
+[13:48:07.658][Cacher] Parse LaTeX AST: %WS1%/konten/5-jadwal-penelitian.tex .
+[13:48:07.658][Cacher] Updated inputs of %WS1%/main.tex .
+[13:48:07.658][Cacher] Parse LaTeX AST: %WS1%/main.tex .
+[13:48:07.658][Event] ROOT_FILE_SEARCHED
+[13:48:07.674][Server] valdOrigin is http://127.0.0.1:35009
+[13:48:07.733][Cacher] Parsed LaTeX AST: %WS1%/pustaka/tanda-hubung.tex .
+[13:48:07.737][Cacher] Updated elements in 2.79 ms: %WS1%/pustaka/tanda-hubung.tex .
+[13:48:07.737][Event] FILE_PARSED: "%WS1%/pustaka/tanda-hubung.tex"
+[13:48:07.751][Cacher] Parsed LaTeX AST: %WS1%/sampul/sampul-luar.tex .
+[13:48:07.754][Cacher] Updated elements in 2.18 ms: %WS1%/sampul/sampul-luar.tex .
+[13:48:07.756][Event] FILE_PARSED: "%WS1%/sampul/sampul-luar.tex"
+[13:48:07.774][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:48:07.776][Cacher] Updated elements in 1.04 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:48:07.776][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:48:07.786][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:48:07.787][Cacher] Updated elements in 0.66 ms: %WS1%/lainnya/abstrak.tex .
+[13:48:07.788][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[13:48:07.802][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:48:07.803][Cacher] Updated elements in 0.59 ms: %WS1%/lainnya/abstrak-en.tex .
+[13:48:07.804][Event] FILE_PARSED: "%WS1%/lainnya/abstrak-en.tex"
+[13:48:07.825][Cacher] Parsed LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[13:48:07.826][Cacher] Updated elements in 0.50 ms: %WS1%/konten/1-pendahuluan.tex .
+[13:48:07.826][Event] FILE_PARSED: "%WS1%/konten/1-pendahuluan.tex"
+[13:48:07.832][Cacher] Parsed LaTeX AST: %WS1%/konten/2-tinjauan-pustaka.tex .
+[13:48:07.847][Cacher] Updated elements in 13.77 ms: %WS1%/konten/2-tinjauan-pustaka.tex .
+[13:48:07.847][Event] FILE_PARSED: "%WS1%/konten/2-tinjauan-pustaka.tex"
+[13:48:07.848][Cacher] Parsed LaTeX AST: %WS1%/konten/3-metodologi.tex .
+[13:48:07.849][Cacher] Updated elements in 0.47 ms: %WS1%/konten/3-metodologi.tex .
+[13:48:07.849][Event] FILE_PARSED: "%WS1%/konten/3-metodologi.tex"
+[13:48:07.851][Cacher] Parsed LaTeX AST: %WS1%/konten/4-lainnya.tex .
+[13:48:07.852][Cacher] Updated elements in 0.58 ms: %WS1%/konten/4-lainnya.tex .
+[13:48:07.852][Event] FILE_PARSED: "%WS1%/konten/4-lainnya.tex"
+[13:48:07.871][Cacher] Parsed LaTeX AST: %WS1%/konten/5-jadwal-penelitian.tex .
+[13:48:07.873][Cacher] Updated elements in 1.24 ms: %WS1%/konten/5-jadwal-penelitian.tex .
+[13:48:07.873][Event] FILE_PARSED: "%WS1%/konten/5-jadwal-penelitian.tex"
+[13:48:07.913][Cacher] Parsed LaTeX AST: %WS1%/main.tex .
+[13:48:07.914][File] Calling kpsewhich to resolve book.cls .
+[13:48:08.048][File] kpsewhich returned with '/usr/share/texlive/texmf-dist/tex/latex/base/book.cls'.
+[13:48:08.053][Cacher] Bib %WS1%/pustaka/pustaka.bib from %WS1%/main.tex .
+[13:48:08.054][Intelli][Citation] Parsing .bib entries from %WS1%/pustaka/pustaka.bib
+[13:48:08.054][Intelli][Citation] Parse BibTeX AST from %WS1%/pustaka/pustaka.bib .
+[13:48:08.055][Cacher][Watcher] Watched %WS1%/pustaka/pustaka.bib with a new .bib watcher on %WS1%/pustaka .
+[13:48:08.055][Event] FILE_WATCHED: "%WS1%/pustaka/pustaka.bib"
+[13:48:08.055][Cacher] Updated elements in 141.76 ms: %WS1%/main.tex .
+[13:48:08.056][Event] FILE_PARSED: "%WS1%/main.tex"
+[13:48:08.063][Structure] Structure force updated with 0 root sections for %WS1%/main.tex .
+[13:48:08.064][Event] STRUCTURE_UPDATED
+[13:48:08.065][Intelli][Citation] Parsed 2 bib entries from %WS1%/pustaka/pustaka.bib .
+[13:48:08.066][Event] FILE_PARSED: "%WS1%/pustaka/pustaka.bib"
+[13:48:08.069][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:48:08.070][Event] STRUCTURE_UPDATED
+[13:48:14.780][Commander] BUILD command invoked.
+[13:48:14.781][Build] The document of the active editor: file://%WS1%/main.tex
+[13:48:14.781][Build] The languageId of the document: latex
+[13:48:14.781][Root] Current workspace folders: ["file://%WS1%"]
+[13:48:14.782][Root] Found root file from active editor: %WS1%/main.tex
+[13:48:14.782][Root] Keep using the same root file: %WS1%/main.tex
+[13:48:14.782][Event] ROOT_FILE_SEARCHED
+[13:48:14.783][Event] STRUCTURE_UPDATED
+[13:48:14.783][Build] Building root file: %WS1%/main.tex
+[13:48:14.783][Build][Recipe] Build root file %WS1%/main.tex
+[13:48:14.788][Build][Recipe] Preparing to run recipe: latexmk.
+[13:48:14.788][Build][Recipe] Prepared 1 tools.
+[13:48:14.800][Build][Recipe] outDir: %WS1% .
+[13:48:14.802][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:48:14.803][Build] env: {}
+[13:48:14.803][Build] root: %WS1%/main.tex
+[13:48:14.803][Build] cwd: %WS1%
+[13:48:14.809][Build] LaTeX build process spawned with PID 10851.
+[13:48:21.702][Commander] VIEW command invoked with mode: file://%WS1%/main.tex.
+[13:48:21.702][Root] Current workspace folders: ["file://%WS1%"]
+[13:48:21.703][Root] Found root file from active editor: %WS1%/main.tex
+[13:48:21.704][Root] Keep using the same root file: %WS1%/main.tex
+[13:48:21.704][Event] ROOT_FILE_SEARCHED
+[13:48:21.704][Event] STRUCTURE_UPDATED
+[13:48:21.847][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:35009/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZicmFjZXNrYWJhbmUlMkZwcm9wb3NhbCUyRm1haW4ucGRm .
+[13:48:21.847][Cacher][Watcher] Watched %WS1%/main.pdf with a new .pdf watcher on %WS1% .
+[13:48:21.848][Event] FILE_WATCHED: "%WS1%/main.pdf"
+[13:48:21.902][Event] STRUCTURE_UPDATED
+[13:48:21.902][Viewer] Open PDF tab for file://%WS1%/main.pdf
+[13:48:22.168][Viewer] Handle data type: open
+[13:48:22.267][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:48:22.384][Cacher][Watcher] "change" emitted on %WS1%/main.pdf after polling for 250 ms.
+[13:48:22.385][Event] FILE_CHANGED: "%WS1%/main.pdf"
+[13:48:22.776][Viewer] Handle data type: loaded
+[13:48:22.776][Event] VIEWER_PAGE_LOADED
+[13:48:23.451][Parser][BiberLog] Found BibTeX file %WS1%/pustaka/pustaka.bib
+[13:48:23.451][Parser][BiberLog] Logged 0 messages.
+[13:48:23.455][Parser][TexLog] Logged 3 messages.
+[13:48:23.456][Build] Finished a step in recipe with PID 10851.
+[13:48:23.456][Build] Successfully built %WS1%/main.tex .
+[13:48:23.456][Event] BUILD_DONE
+[13:48:23.457][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:48:23.457][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:48:23.458][Cacher] Parsing .fls %WS1%/main.fls .
+[13:48:23.477][Cacher] Adding %WS1%/sampul/konten-id.tex .
+[13:48:23.477][Cacher][Watcher] Watched %WS1%/sampul/konten-id.tex by the .* watcher.
+[13:48:23.477][Event] FILE_WATCHED: "%WS1%/sampul/konten-id.tex"
+[13:48:23.477][Cacher] Found %WS1%/sampul/konten-id.tex from .fls %WS1%/main.fls , caching.
+[13:48:23.478][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:48:23.478][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:48:23.478][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:48:23.480][Cacher] Adding %WS1%/sampul/gambar/sampul-luar-tipis.png .
+[13:48:23.480][Cacher][Watcher] Watched %WS1%/sampul/gambar/sampul-luar-tipis.png with a new .* watcher on %WS1%/sampul/gambar .
+[13:48:23.480][Event] FILE_WATCHED: "%WS1%/sampul/gambar/sampul-luar-tipis.png"
+[13:48:23.486][Cacher] Adding %WS1%/gambar/blueprint.jpg .
+[13:48:23.486][Cacher][Watcher] Watched %WS1%/gambar/blueprint.jpg with a new .* watcher on %WS1%/gambar .
+[13:48:23.486][Event] FILE_WATCHED: "%WS1%/gambar/blueprint.jpg"
+[13:48:23.488][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:48:23.488][Cacher] Parsed .aux %WS1%/main.tex .
+[13:48:23.488][Cacher] Parsed .fls %WS1%/main.fls .
+[13:48:23.501][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:48:23.502][Cacher] Updated elements in 0.72 ms: %WS1%/sampul/konten-id.tex .
+[13:48:23.503][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:48:23.505][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:48:23.505][Event] STRUCTURE_UPDATED
+[13:48:23.506][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:48:23.701][Viewer] Handle data type: loaded
+[13:48:23.701][Event] VIEWER_PAGE_LOADED
+[13:48:45.689][Event] STRUCTURE_UPDATED
+[13:48:59.182][Event] STRUCTURE_UPDATED
+[13:49:32.727][Root] Current workspace folders: ["file://%WS1%"]
+[13:49:32.728][Root] Keep using the same root file: %WS1%/main.tex
+[13:49:32.729][Event] ROOT_FILE_SEARCHED
+[13:49:32.729][Event] STRUCTURE_UPDATED
+[13:49:32.730][Event] STRUCTURE_UPDATED
+[13:49:32.851][Extension] onDidSaveTextDocument triggered: file://%WS1%/main.tex
+[13:49:32.916][Cacher][Watcher] "change" emitted on %WS1%/main.tex.
+[13:49:32.918][Cacher] Caching %WS1%/main.tex .
+[13:49:32.919][Cacher] Input %WS1%/pustaka/tanda-hubung.tex from %WS1%/main.tex .
+[13:49:32.919][Cacher] Input %WS1%/sampul/sampul-luar.tex from %WS1%/main.tex .
+[13:49:32.919][Cacher] Input %WS1%/lainnya/lembar-pengesahan.tex from %WS1%/main.tex .
+[13:49:32.920][Cacher] Input %WS1%/lainnya/abstrak.tex from %WS1%/main.tex .
+[13:49:32.920][Cacher] Input %WS1%/lainnya/abstrak-en.tex from %WS1%/main.tex .
+[13:49:32.920][Cacher] Input %WS1%/konten/1-pendahuluan.tex from %WS1%/main.tex .
+[13:49:32.920][Cacher] Input %WS1%/konten/2-tinjauan-pustaka.tex from %WS1%/main.tex .
+[13:49:32.921][Cacher] Input %WS1%/konten/3-metodologi.tex from %WS1%/main.tex .
+[13:49:32.921][Cacher] Input %WS1%/konten/4-lainnya.tex from %WS1%/main.tex .
+[13:49:32.921][Cacher] Input %WS1%/konten/5-jadwal-penelitian.tex from %WS1%/main.tex .
+[13:49:32.921][Cacher] Updated inputs of %WS1%/main.tex .
+[13:49:32.921][Cacher] Parse LaTeX AST: %WS1%/main.tex .
+[13:49:32.922][Build] Auto build started detecting the change of a file: %WS1%/main.tex .
+[13:49:32.922][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/main.tex"}
+[13:49:32.922][Build] The document of the active editor: file://%WS1%/lainnya/abstrak-en.tex
+[13:49:32.922][Build] The languageId of the document: latex
+[13:49:32.923][Build] Building root file: %WS1%/main.tex
+[13:49:32.923][Build][Recipe] Build root file %WS1%/main.tex
+[13:49:32.924][Event] FILE_CHANGED: "%WS1%/main.tex"
+[13:49:32.951][Build][Recipe] Preparing to run recipe: latexmk.
+[13:49:32.952][Build][Recipe] Prepared 1 tools.
+[13:49:32.953][Build][Recipe] outDir: %WS1% .
+[13:49:32.954][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:49:32.954][Build] env: {}
+[13:49:32.957][Build] root: %WS1%/main.tex
+[13:49:32.958][Build] cwd: %WS1%
+[13:49:32.965][Build] LaTeX build process spawned with PID 10916.
+[13:49:33.001][Cacher] Parsed LaTeX AST: %WS1%/main.tex .
+[13:49:33.001][File] kpsewhich cache hit on book.cls: /usr/share/texlive/texmf-dist/tex/latex/base/book.cls .
+[13:49:33.007][Cacher] Bib %WS1%/pustaka/pustaka.bib from %WS1%/main.tex .
+[13:49:33.008][Cacher] Updated elements in 6.64 ms: %WS1%/main.tex .
+[13:49:33.009][Event] FILE_PARSED: "%WS1%/main.tex"
+[13:49:33.010][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:49:33.011][Event] STRUCTURE_UPDATED
+[13:49:33.926][Root] Current workspace folders: ["file://%WS1%"]
+[13:49:33.929][Root] Keep using the same root file: %WS1%/main.tex
+[13:49:33.929][Event] ROOT_FILE_SEARCHED
+[13:49:33.930][Event] STRUCTURE_UPDATED
+[13:49:33.931][Event] STRUCTURE_UPDATED
+[13:49:33.988][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak-en.tex
+[13:49:34.120][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak-en.tex.
+[13:49:34.122][Cacher] Caching %WS1%/lainnya/abstrak-en.tex .
+[13:49:34.122][Cacher] Updated inputs of %WS1%/lainnya/abstrak-en.tex .
+[13:49:34.122][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:49:34.122][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak-en.tex .
+[13:49:34.123][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak-en.tex"}
+[13:49:34.123][Build] The document of the active editor: file://%WS1%/lainnya/abstrak.tex
+[13:49:34.123][Build] The languageId of the document: latex
+[13:49:34.123][Build] Building root file: %WS1%/main.tex
+[13:49:34.123][Build][Recipe] Build root file %WS1%/main.tex
+[13:49:34.124][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak-en.tex"
+[13:49:34.135][Build][Recipe] Preparing to run recipe: latexmk.
+[13:49:34.136][Build][Recipe] Prepared 1 tools.
+[13:49:34.137][Build][Recipe] outDir: %WS1% .
+[13:49:34.139][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:49:34.140][Cacher] Updated elements in 1.37 ms: %WS1%/lainnya/abstrak-en.tex .
+[13:49:34.141][Event] FILE_PARSED: "%WS1%/lainnya/abstrak-en.tex"
+[13:49:34.145][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:49:34.146][Event] STRUCTURE_UPDATED
+[13:49:35.403][Root] Current workspace folders: ["file://%WS1%"]
+[13:49:35.405][Root] Current workspaceRootDir: file://%WS1% .
+[13:49:35.517][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak.tex
+[13:49:35.585][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[13:49:35.585][Root] Keep using the same root file: %WS1%/main.tex
+[13:49:35.586][Event] ROOT_FILE_SEARCHED
+[13:49:35.586][Event] STRUCTURE_UPDATED
+[13:49:35.587][Event] STRUCTURE_UPDATED
+[13:49:35.658][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak.tex.
+[13:49:35.658][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[13:49:35.659][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[13:49:35.659][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:49:35.659][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak.tex .
+[13:49:35.659][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak.tex"}
+[13:49:35.660][Build] The document of the active editor: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[13:49:35.660][Build] The languageId of the document: latex
+[13:49:35.660][Build] Building root file: %WS1%/main.tex
+[13:49:35.660][Build][Recipe] Build root file %WS1%/main.tex
+[13:49:35.660][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak.tex"
+[13:49:35.669][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:49:35.671][Cacher] Updated elements in 1.81 ms: %WS1%/lainnya/abstrak.tex .
+[13:49:35.672][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[13:49:35.673][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:49:35.673][Event] STRUCTURE_UPDATED
+[13:49:35.675][Build][Recipe] Preparing to run recipe: latexmk.
+[13:49:35.675][Build][Recipe] Prepared 1 tools.
+[13:49:35.676][Build][Recipe] outDir: %WS1% .
+[13:49:36.348][Root] Current workspace folders: ["file://%WS1%"]
+[13:49:36.350][Root] Keep using the same root file: %WS1%/main.tex
+[13:49:36.351][Event] ROOT_FILE_SEARCHED
+[13:49:36.351][Event] STRUCTURE_UPDATED
+[13:49:36.353][Event] STRUCTURE_UPDATED
+[13:49:36.408][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[13:49:36.995][Cacher][Watcher] "change" emitted on %WS1%/main.pdf after polling for 73897 ms.
+[13:49:36.996][Event] FILE_CHANGED: "%WS1%/main.pdf"
+[13:49:37.266][Root] Current workspace folders: ["file://%WS1%"]
+[13:49:37.268][Root] Current workspaceRootDir: file://%WS1% .
+[13:49:37.338][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[13:49:37.402][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[13:49:37.403][Root] Keep using the same root file: %WS1%/main.tex
+[13:49:37.403][Event] ROOT_FILE_SEARCHED
+[13:49:37.403][Event] STRUCTURE_UPDATED
+[13:49:37.404][Event] STRUCTURE_UPDATED
+[13:49:37.405][Cacher] Error loading cache: %WS1%/lainnya/lembar-pengesahan-en.tex . Forcing.
+[13:49:37.406][Cacher] Caching %WS1%/lainnya/lembar-pengesahan-en.tex .
+[13:49:37.407][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan-en.tex .
+[13:49:37.407][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[13:49:37.439][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[13:49:37.442][Cacher] Updated elements in 2.83 ms: %WS1%/lainnya/lembar-pengesahan-en.tex .
+[13:49:37.443][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan-en.tex"
+[13:49:37.445][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:49:37.445][Event] STRUCTURE_UPDATED
+[13:49:37.447][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[13:49:37.448][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[13:49:37.448][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[13:49:37.448][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:49:37.448][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:49:37.449][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[13:49:37.449][Build] The document of the active editor: file://%WS1%/sampul/konten-en.tex
+[13:49:37.449][Build] The languageId of the document: latex
+[13:49:37.449][Build] Building root file: %WS1%/main.tex
+[13:49:37.449][Build][Recipe] Build root file %WS1%/main.tex
+[13:49:37.449][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:49:37.463][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:49:37.466][Cacher] Updated elements in 2.89 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:49:37.468][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:49:37.468][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:49:37.469][Event] STRUCTURE_UPDATED
+[13:49:37.483][Build][Recipe] Preparing to run recipe: latexmk.
+[13:49:37.484][Build][Recipe] Prepared 1 tools.
+[13:49:37.485][Build][Recipe] outDir: %WS1% .
+[13:49:38.592][Cacher][Watcher] "change" emitted on %WS1%/main.pdf after polling for 1509 ms.
+[13:49:38.593][Event] FILE_CHANGED: "%WS1%/main.pdf"
+[13:49:39.030][Parser][TexLog] Logged 3 messages.
+[13:49:39.031][Build] Finished a step in recipe with PID 10916.
+[13:49:39.031][Build] Successfully built %WS1%/main.tex .
+[13:49:39.032][Event] BUILD_DONE
+[13:49:39.032][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:49:39.032][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:49:39.033][Cacher] Parsing .fls %WS1%/main.fls .
+[13:49:39.067][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:49:39.068][Cacher] Parsed .aux %WS1%/main.tex .
+[13:49:39.068][Cacher] Parsed .fls %WS1%/main.fls .
+[13:49:39.069][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:49:39.069][Build] env: {}
+[13:49:39.070][Build] root: %WS1%/main.tex
+[13:49:39.070][Build] cwd: %WS1%
+[13:49:39.079][Build] LaTeX build process spawned with PID 10970.
+[13:49:39.086][Root] Current workspace folders: ["file://%WS1%"]
+[13:49:39.089][Root] Current workspaceRootDir: file://%WS1% .
+[13:49:39.181][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:49:39.187][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-en.tex
+[13:49:39.220][Build] Finished a step in recipe with PID 10970.
+[13:49:39.220][Build] Successfully built %WS1%/main.tex .
+[13:49:39.221][Event] BUILD_DONE
+[13:49:39.221][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:49:39.221][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:49:39.222][Cacher] Parsing .fls %WS1%/main.fls .
+[13:49:39.254][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:49:39.255][Cacher] Parsed .aux %WS1%/main.tex .
+[13:49:39.255][Cacher] Parsed .fls %WS1%/main.fls .
+[13:49:39.256][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:49:39.256][Build] env: {}
+[13:49:39.256][Build] root: %WS1%/main.tex
+[13:49:39.256][Build] cwd: %WS1%
+[13:49:39.264][Build] LaTeX build process spawned with PID 10985.
+[13:49:39.273][Root] Found root file from '.fls': %WS1%/main.tex
+[13:49:39.273][Root] Keep using the same root file: %WS1%/main.tex
+[13:49:39.274][Event] ROOT_FILE_SEARCHED
+[13:49:39.274][Event] STRUCTURE_UPDATED
+[13:49:39.275][Event] STRUCTURE_UPDATED
+[13:49:39.304][Cacher] Error loading cache: %WS1%/sampul/konten-en.tex . Forcing.
+[13:49:39.305][Cacher] Caching %WS1%/sampul/konten-en.tex .
+[13:49:39.306][Cacher] Updated inputs of %WS1%/sampul/konten-en.tex .
+[13:49:39.306][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-en.tex .
+[13:49:39.326][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-en.tex .
+[13:49:39.328][Cacher] Updated elements in 1.59 ms: %WS1%/sampul/konten-en.tex .
+[13:49:39.329][Event] FILE_PARSED: "%WS1%/sampul/konten-en.tex"
+[13:49:39.333][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:49:39.334][Event] STRUCTURE_UPDATED
+[13:49:39.384][Build] Finished a step in recipe with PID 10985.
+[13:49:39.385][Build] Successfully built %WS1%/main.tex .
+[13:49:39.385][Event] BUILD_DONE
+[13:49:39.386][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:49:39.387][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:49:39.388][Cacher] Parsing .fls %WS1%/main.fls .
+[13:49:39.402][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:49:39.403][Cacher] Parsed .aux %WS1%/main.tex .
+[13:49:39.403][Cacher] Parsed .fls %WS1%/main.fls .
+[13:49:39.458][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:49:39.678][Viewer] Handle data type: loaded
+[13:49:39.679][Event] VIEWER_PAGE_LOADED
+[13:49:39.679][Viewer] Handle data type: loaded
+[13:49:39.679][Event] VIEWER_PAGE_LOADED
+[13:49:39.680][Viewer] Handle data type: loaded
+[13:49:39.680][Event] VIEWER_PAGE_LOADED
+[13:49:40.438][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[13:49:40.536][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[13:49:40.537][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:49:40.538][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:49:40.539][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:49:40.539][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[13:49:40.539][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[13:49:40.540][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[13:49:40.540][Build] The languageId of the document: latex
+[13:49:40.540][Build] Building root file: %WS1%/main.tex
+[13:49:40.540][Build][Recipe] Build root file %WS1%/main.tex
+[13:49:40.541][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[13:49:40.546][Build][Recipe] Preparing to run recipe: latexmk.
+[13:49:40.547][Build][Recipe] Prepared 1 tools.
+[13:49:40.547][Build][Recipe] outDir: %WS1% .
+[13:49:40.548][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:49:40.549][Build] env: {}
+[13:49:40.549][Build] root: %WS1%/main.tex
+[13:49:40.550][Build] cwd: %WS1%
+[13:49:40.557][Build] LaTeX build process spawned with PID 10993.
+[13:49:40.559][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:49:40.560][Cacher] Updated elements in 0.96 ms: %WS1%/sampul/konten-id.tex .
+[13:49:40.561][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:49:40.562][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:49:40.563][Event] STRUCTURE_UPDATED
+[13:49:41.996][Parser][TexLog] Logged 3 messages.
+[13:49:41.998][Build] Finished a step in recipe with PID 10993.
+[13:49:41.998][Build] Successfully built %WS1%/main.tex .
+[13:49:41.999][Event] BUILD_DONE
+[13:49:41.999][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:49:41.999][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:49:42.000][Cacher] Parsing .fls %WS1%/main.fls .
+[13:49:42.024][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:49:42.024][Cacher] Parsed .aux %WS1%/main.tex .
+[13:49:42.025][Cacher] Parsed .fls %WS1%/main.fls .
+[13:49:42.031][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:49:42.249][Viewer] Handle data type: loaded
+[13:49:42.250][Event] VIEWER_PAGE_LOADED
+[13:49:52.338][Event] STRUCTURE_UPDATED
+[13:51:00.986][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak.tex
+[13:51:01.014][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-en.tex
+[13:51:01.015][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[13:51:01.016][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[13:51:01.017][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[13:51:01.018][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak-en.tex
+[13:51:01.077][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[13:51:01.078][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:51:01.079][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:51:01.079][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:51:01.080][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[13:51:01.080][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[13:51:01.080][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[13:51:01.080][Build] The languageId of the document: latex
+[13:51:01.081][Build] Building root file: %WS1%/main.tex
+[13:51:01.081][Build][Recipe] Build root file %WS1%/main.tex
+[13:51:01.082][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[13:51:01.082][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak-en.tex.
+[13:51:01.084][Cacher] Caching %WS1%/lainnya/abstrak-en.tex .
+[13:51:01.084][Cacher] Updated inputs of %WS1%/lainnya/abstrak-en.tex .
+[13:51:01.084][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:51:01.085][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak-en.tex .
+[13:51:01.085][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak-en.tex"}
+[13:51:01.085][Build] Autobuild temporarily disabled.
+[13:51:01.086][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak-en.tex"
+[13:51:01.086][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak.tex.
+[13:51:01.087][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[13:51:01.088][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[13:51:01.088][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:51:01.088][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak.tex .
+[13:51:01.089][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak.tex"}
+[13:51:01.089][Build] Autobuild temporarily disabled.
+[13:51:01.089][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak.tex"
+[13:51:01.090][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[13:51:01.090][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[13:51:01.091][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[13:51:01.091][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:51:01.092][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:51:01.092][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[13:51:01.092][Build] Autobuild temporarily disabled.
+[13:51:01.093][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:51:01.099][Build][Recipe] Preparing to run recipe: latexmk.
+[13:51:01.100][Build][Recipe] Prepared 1 tools.
+[13:51:01.101][Build][Recipe] outDir: %WS1% .
+[13:51:01.102][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:51:01.102][Build] env: {}
+[13:51:01.102][Build] root: %WS1%/main.tex
+[13:51:01.105][Build] cwd: %WS1%
+[13:51:01.111][Build] LaTeX build process spawned with PID 11019.
+[13:51:01.113][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:51:01.116][Cacher] Updated elements in 2.90 ms: %WS1%/sampul/konten-id.tex .
+[13:51:01.117][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:51:01.122][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:51:01.126][Cacher] Updated elements in 2.81 ms: %WS1%/lainnya/abstrak-en.tex .
+[13:51:01.126][Event] FILE_PARSED: "%WS1%/lainnya/abstrak-en.tex"
+[13:51:01.132][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:51:01.133][Cacher] Updated elements in 0.97 ms: %WS1%/lainnya/abstrak.tex .
+[13:51:01.134][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[13:51:01.147][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:51:01.148][Cacher] Updated elements in 0.78 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:51:01.148][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:51:01.151][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:51:01.151][Event] STRUCTURE_UPDATED
+[13:51:02.557][Parser][TexLog] Logged 3 messages.
+[13:51:02.558][Build] Finished a step in recipe with PID 11019.
+[13:51:02.558][Build] Successfully built %WS1%/main.tex .
+[13:51:02.558][Event] BUILD_DONE
+[13:51:02.559][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:51:02.559][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:51:02.561][Cacher] Parsing .fls %WS1%/main.fls .
+[13:51:02.581][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:51:02.582][Cacher] Parsed .aux %WS1%/main.tex .
+[13:51:02.582][Cacher] Parsed .fls %WS1%/main.fls .
+[13:51:02.642][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:51:02.863][Viewer] Handle data type: loaded
+[13:51:02.863][Event] VIEWER_PAGE_LOADED
+[13:51:06.204][Event] STRUCTURE_UPDATED
+[13:54:10.490][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-en.tex
+[13:54:10.492][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[13:54:10.493][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[13:54:10.493][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak.tex
+[13:54:10.526][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak-en.tex
+[13:54:10.529][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[13:54:10.586][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[13:54:10.587][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:54:10.588][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:54:10.588][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:54:10.588][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[13:54:10.588][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[13:54:10.589][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[13:54:10.589][Build] The languageId of the document: latex
+[13:54:10.589][Build] Building root file: %WS1%/main.tex
+[13:54:10.589][Build][Recipe] Build root file %WS1%/main.tex
+[13:54:10.589][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[13:54:10.590][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak.tex.
+[13:54:10.591][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[13:54:10.591][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[13:54:10.591][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:54:10.591][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak.tex .
+[13:54:10.592][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak.tex"}
+[13:54:10.592][Build] Autobuild temporarily disabled.
+[13:54:10.592][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak.tex"
+[13:54:10.592][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[13:54:10.593][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[13:54:10.593][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[13:54:10.593][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:54:10.593][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:54:10.593][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[13:54:10.594][Build] Autobuild temporarily disabled.
+[13:54:10.594][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:54:10.594][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak-en.tex.
+[13:54:10.594][Cacher] Caching %WS1%/lainnya/abstrak-en.tex .
+[13:54:10.595][Cacher] Updated inputs of %WS1%/lainnya/abstrak-en.tex .
+[13:54:10.595][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:54:10.595][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak-en.tex .
+[13:54:10.595][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak-en.tex"}
+[13:54:10.596][Build] Autobuild temporarily disabled.
+[13:54:10.597][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak-en.tex"
+[13:54:10.604][Build][Recipe] Preparing to run recipe: latexmk.
+[13:54:10.605][Build][Recipe] Prepared 1 tools.
+[13:54:10.607][Build][Recipe] outDir: %WS1% .
+[13:54:10.608][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:54:10.608][Build] env: {}
+[13:54:10.608][Build] root: %WS1%/main.tex
+[13:54:10.609][Build] cwd: %WS1%
+[13:54:10.615][Build] LaTeX build process spawned with PID 11053.
+[13:54:10.619][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:54:10.620][Cacher] Updated elements in 0.86 ms: %WS1%/sampul/konten-id.tex .
+[13:54:10.621][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:54:10.631][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[13:54:10.635][Cacher] Updated elements in 3.74 ms: %WS1%/lainnya/abstrak.tex .
+[13:54:10.636][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[13:54:10.649][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:54:10.652][Cacher] Updated elements in 2.82 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:54:10.653][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:54:10.661][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[13:54:10.663][Cacher] Updated elements in 1.48 ms: %WS1%/lainnya/abstrak-en.tex .
+[13:54:10.663][Event] FILE_PARSED: "%WS1%/lainnya/abstrak-en.tex"
+[13:54:10.664][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:54:10.664][Event] STRUCTURE_UPDATED
+[13:54:12.043][Parser][TexLog] Logged 3 messages.
+[13:54:12.044][Build] Finished a step in recipe with PID 11053.
+[13:54:12.044][Build] Successfully built %WS1%/main.tex .
+[13:54:12.044][Event] BUILD_DONE
+[13:54:12.045][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:54:12.045][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:54:12.046][Cacher] Parsing .fls %WS1%/main.fls .
+[13:54:12.060][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:54:12.061][Cacher] Parsed .aux %WS1%/main.tex .
+[13:54:12.061][Cacher] Parsed .fls %WS1%/main.fls .
+[13:54:12.120][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:54:12.289][Viewer] Handle data type: loaded
+[13:54:12.290][Event] VIEWER_PAGE_LOADED
+[13:55:03.785][Event] STRUCTURE_UPDATED
+[13:55:29.785][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[13:55:29.846][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[13:55:29.847][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:55:29.849][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:55:29.850][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:55:29.850][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[13:55:29.850][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[13:55:29.851][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[13:55:29.851][Build] The languageId of the document: latex
+[13:55:29.852][Build] Building root file: %WS1%/main.tex
+[13:55:29.852][Build][Recipe] Build root file %WS1%/main.tex
+[13:55:29.852][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[13:55:29.859][Build][Recipe] Preparing to run recipe: latexmk.
+[13:55:29.860][Build][Recipe] Prepared 1 tools.
+[13:55:29.861][Build][Recipe] outDir: %WS1% .
+[13:55:29.862][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:55:29.863][Build] env: {}
+[13:55:29.863][Build] root: %WS1%/main.tex
+[13:55:29.864][Build] cwd: %WS1%
+[13:55:29.873][Build] LaTeX build process spawned with PID 11069.
+[13:55:29.878][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:55:29.878][Cacher] Updated elements in 0.55 ms: %WS1%/sampul/konten-id.tex .
+[13:55:29.879][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:55:29.880][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:55:29.881][Event] STRUCTURE_UPDATED
+[13:55:31.355][Parser][TexLog] Logged 3 messages.
+[13:55:31.356][Build] Finished a step in recipe with PID 11069.
+[13:55:31.357][Build] Successfully built %WS1%/main.tex .
+[13:55:31.357][Event] BUILD_DONE
+[13:55:31.358][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:55:31.358][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:55:31.360][Cacher] Parsing .fls %WS1%/main.fls .
+[13:55:31.378][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:55:31.379][Cacher] Parsed .aux %WS1%/main.tex .
+[13:55:31.379][Cacher] Parsed .fls %WS1%/main.fls .
+[13:55:31.429][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:55:31.604][Viewer] Handle data type: loaded
+[13:55:31.604][Event] VIEWER_PAGE_LOADED
+[13:56:50.028][Event] STRUCTURE_UPDATED
+[13:57:15.253][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[13:57:15.255][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[13:57:15.255][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-en.tex
+[13:57:15.256][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[13:57:15.306][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[13:57:15.307][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:57:15.308][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:57:15.308][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:57:15.308][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[13:57:15.309][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[13:57:15.309][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[13:57:15.309][Build] The languageId of the document: latex
+[13:57:15.309][Build] Building root file: %WS1%/main.tex
+[13:57:15.309][Build][Recipe] Build root file %WS1%/main.tex
+[13:57:15.310][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[13:57:15.310][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[13:57:15.310][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[13:57:15.311][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[13:57:15.311][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:57:15.311][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:57:15.311][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[13:57:15.312][Build] Autobuild temporarily disabled.
+[13:57:15.312][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:57:15.327][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:57:15.330][Cacher] Updated elements in 2.05 ms: %WS1%/sampul/konten-id.tex .
+[13:57:15.330][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:57:15.331][Build][Recipe] Preparing to run recipe: latexmk.
+[13:57:15.331][Build][Recipe] Prepared 1 tools.
+[13:57:15.333][Build][Recipe] outDir: %WS1% .
+[13:57:15.335][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:57:15.335][Build] env: {}
+[13:57:15.335][Build] root: %WS1%/main.tex
+[13:57:15.336][Build] cwd: %WS1%
+[13:57:15.342][Build] LaTeX build process spawned with PID 11106.
+[13:57:15.350][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:57:15.352][Cacher] Updated elements in 1.67 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:57:15.353][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:57:15.354][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:57:15.354][Event] STRUCTURE_UPDATED
+[13:57:16.849][Parser][TexLog] Logged 3 messages.
+[13:57:16.849][Build] Finished a step in recipe with PID 11106.
+[13:57:16.849][Build] Successfully built %WS1%/main.tex .
+[13:57:16.850][Event] BUILD_DONE
+[13:57:16.851][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:57:16.851][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:57:16.852][Cacher] Parsing .fls %WS1%/main.fls .
+[13:57:16.866][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:57:16.867][Cacher] Parsed .aux %WS1%/main.tex .
+[13:57:16.867][Cacher] Parsed .fls %WS1%/main.fls .
+[13:57:16.879][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:57:17.051][Viewer] Handle data type: loaded
+[13:57:17.051][Event] VIEWER_PAGE_LOADED
+[13:57:49.458][Root] Current workspace folders: ["file://%WS1%"]
+[13:57:49.460][Root] Current workspaceRootDir: file://%WS1% .
+[13:57:49.568][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[13:57:49.569][Root] Keep using the same root file: %WS1%/main.tex
+[13:57:49.569][Event] ROOT_FILE_SEARCHED
+[13:57:49.569][Event] STRUCTURE_UPDATED
+[13:57:49.570][Event] STRUCTURE_UPDATED
+[13:58:07.031][Root] Current workspace folders: ["file://%WS1%"]
+[13:58:07.033][Root] Current workspaceRootDir: file://%WS1% .
+[13:58:07.124][Root] Found root file from '.fls': %WS1%/main.tex
+[13:58:07.124][Root] Keep using the same root file: %WS1%/main.tex
+[13:58:07.125][Event] ROOT_FILE_SEARCHED
+[13:58:07.125][Event] STRUCTURE_UPDATED
+[13:58:07.127][Event] STRUCTURE_UPDATED
+[13:58:14.740][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[13:58:14.807][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[13:58:14.810][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:58:14.811][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:58:14.812][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:58:14.812][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[13:58:14.812][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[13:58:14.813][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[13:58:14.813][Build] The languageId of the document: latex
+[13:58:14.813][Build] Building root file: %WS1%/main.tex
+[13:58:14.813][Build][Recipe] Build root file %WS1%/main.tex
+[13:58:14.814][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[13:58:14.820][Build][Recipe] Preparing to run recipe: latexmk.
+[13:58:14.820][Build][Recipe] Prepared 1 tools.
+[13:58:14.823][Build][Recipe] outDir: %WS1% .
+[13:58:14.825][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:58:14.825][Build] env: {}
+[13:58:14.825][Build] root: %WS1%/main.tex
+[13:58:14.826][Build] cwd: %WS1%
+[13:58:14.835][Build] LaTeX build process spawned with PID 11155.
+[13:58:14.845][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:58:14.854][Cacher] Updated elements in 8.25 ms: %WS1%/sampul/konten-id.tex .
+[13:58:14.856][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:58:14.858][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:58:14.858][Event] STRUCTURE_UPDATED
+[13:58:16.317][Parser][TexLog] Logged 3 messages.
+[13:58:16.318][Build] Finished a step in recipe with PID 11155.
+[13:58:16.318][Build] Successfully built %WS1%/main.tex .
+[13:58:16.319][Event] BUILD_DONE
+[13:58:16.319][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:58:16.319][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:58:16.320][Cacher] Parsing .fls %WS1%/main.fls .
+[13:58:16.346][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:58:16.347][Cacher] Parsed .aux %WS1%/main.tex .
+[13:58:16.347][Cacher] Parsed .fls %WS1%/main.fls .
+[13:58:16.400][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:58:16.602][Viewer] Handle data type: loaded
+[13:58:16.602][Event] VIEWER_PAGE_LOADED
+[13:59:06.994][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-en.tex
+[13:59:06.995][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[13:59:06.996][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[13:59:06.997][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[13:59:07.056][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[13:59:07.058][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[13:59:07.059][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[13:59:07.059][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:59:07.060][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[13:59:07.060][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[13:59:07.061][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[13:59:07.061][Build] The languageId of the document: latex
+[13:59:07.061][Build] Building root file: %WS1%/main.tex
+[13:59:07.062][Build][Recipe] Build root file %WS1%/main.tex
+[13:59:07.062][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[13:59:07.063][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[13:59:07.065][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[13:59:07.066][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[13:59:07.066][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:59:07.067][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:59:07.067][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[13:59:07.067][Build] Autobuild temporarily disabled.
+[13:59:07.068][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:59:07.078][Build][Recipe] Preparing to run recipe: latexmk.
+[13:59:07.079][Build][Recipe] Prepared 1 tools.
+[13:59:07.081][Build][Recipe] outDir: %WS1% .
+[13:59:07.082][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[13:59:07.083][Build] env: {}
+[13:59:07.083][Build] root: %WS1%/main.tex
+[13:59:07.083][Build] cwd: %WS1%
+[13:59:07.092][Build] LaTeX build process spawned with PID 11283.
+[13:59:07.094][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[13:59:07.095][Cacher] Updated elements in 0.77 ms: %WS1%/sampul/konten-id.tex .
+[13:59:07.096][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[13:59:07.112][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:59:07.113][Cacher] Updated elements in 0.63 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[13:59:07.114][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[13:59:07.116][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[13:59:07.116][Event] STRUCTURE_UPDATED
+[13:59:08.592][Parser][TexLog] Logged 3 messages.
+[13:59:08.592][Build] Finished a step in recipe with PID 11283.
+[13:59:08.593][Build] Successfully built %WS1%/main.tex .
+[13:59:08.593][Event] BUILD_DONE
+[13:59:08.593][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[13:59:08.593][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[13:59:08.594][Cacher] Parsing .fls %WS1%/main.fls .
+[13:59:08.616][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[13:59:08.616][Cacher] Parsed .aux %WS1%/main.tex .
+[13:59:08.617][Cacher] Parsed .fls %WS1%/main.fls .
+[13:59:08.670][Server] Preview PDF file: file://%WS1%/main.pdf
+[13:59:08.894][Viewer] Handle data type: loaded
+[13:59:08.894][Event] VIEWER_PAGE_LOADED
+[13:59:47.085][Event] STRUCTURE_UPDATED
+[13:59:57.247][Root] Current workspace folders: ["file://%WS1%"]
+[13:59:57.249][Root] Keep using the same root file: %WS1%/main.tex
+[13:59:57.249][Event] ROOT_FILE_SEARCHED
+[13:59:57.250][Event] STRUCTURE_UPDATED
+[13:59:57.250][Event] STRUCTURE_UPDATED
+[14:00:06.215][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[14:00:06.277][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[14:00:06.278][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[14:00:06.279][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[14:00:06.280][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:00:06.280][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:00:06.281][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[14:00:06.281][Build] The document of the active editor: file://%WS1%/lainnya/lembar-pengesahan.tex
+[14:00:06.281][Build] The languageId of the document: latex
+[14:00:06.281][Build] Building root file: %WS1%/main.tex
+[14:00:06.281][Build][Recipe] Build root file %WS1%/main.tex
+[14:00:06.282][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[14:00:06.288][Build][Recipe] Preparing to run recipe: latexmk.
+[14:00:06.289][Build][Recipe] Prepared 1 tools.
+[14:00:06.290][Build][Recipe] outDir: %WS1% .
+[14:00:06.294][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[14:00:06.294][Build] env: {}
+[14:00:06.294][Build] root: %WS1%/main.tex
+[14:00:06.295][Build] cwd: %WS1%
+[14:00:06.306][Build] LaTeX build process spawned with PID 11300.
+[14:00:06.326][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:00:06.329][Cacher] Updated elements in 2.63 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:00:06.330][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[14:00:06.332][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[14:00:06.333][Event] STRUCTURE_UPDATED
+[14:00:07.756][Parser][TexLog] Logged 3 messages.
+[14:00:07.756][Build] Finished a step in recipe with PID 11300.
+[14:00:07.757][Build] Successfully built %WS1%/main.tex .
+[14:00:07.757][Event] BUILD_DONE
+[14:00:07.757][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[14:00:07.757][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[14:00:07.758][Cacher] Parsing .fls %WS1%/main.fls .
+[14:00:07.776][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[14:00:07.777][Cacher] Parsed .aux %WS1%/main.tex .
+[14:00:07.777][Cacher] Parsed .fls %WS1%/main.fls .
+[14:00:07.838][Server] Preview PDF file: file://%WS1%/main.pdf
+[14:00:08.027][Viewer] Handle data type: loaded
+[14:00:08.028][Event] VIEWER_PAGE_LOADED
+[14:00:22.807][Root] Current workspace folders: ["file://%WS1%"]
+[14:00:22.809][Root] Found root file from active editor: %WS1%/main.tex
+[14:00:22.810][Root] Keep using the same root file: %WS1%/main.tex
+[14:00:22.810][Event] ROOT_FILE_SEARCHED
+[14:00:22.811][Event] STRUCTURE_UPDATED
+[14:00:22.812][Event] STRUCTURE_UPDATED
+[14:00:41.307][Root] Current workspace folders: ["file://%WS1%"]
+[14:00:41.308][Root] Keep using the same root file: %WS1%/main.tex
+[14:00:41.309][Event] ROOT_FILE_SEARCHED
+[14:00:41.309][Event] STRUCTURE_UPDATED
+[14:00:41.310][Event] STRUCTURE_UPDATED
+[14:00:46.496][Root] Current workspace folders: ["file://%WS1%"]
+[14:00:46.497][Root] Keep using the same root file: %WS1%/main.tex
+[14:00:46.498][Event] ROOT_FILE_SEARCHED
+[14:00:46.498][Event] STRUCTURE_UPDATED
+[14:00:46.499][Event] STRUCTURE_UPDATED
+[14:00:50.570][Root] Current workspace folders: ["file://%WS1%"]
+[14:00:50.571][Root] Keep using the same root file: %WS1%/main.tex
+[14:00:50.571][Event] ROOT_FILE_SEARCHED
+[14:00:50.571][Event] STRUCTURE_UPDATED
+[14:00:50.572][Event] STRUCTURE_UPDATED
+[14:01:03.926][Root] Current workspace folders: ["file://%WS1%"]
+[14:01:03.930][Root] Found root file from active editor: %WS1%/main.tex
+[14:01:03.930][Root] Keep using the same root file: %WS1%/main.tex
+[14:01:03.930][Event] ROOT_FILE_SEARCHED
+[14:01:03.931][Event] STRUCTURE_UPDATED
+[14:01:03.931][Event] STRUCTURE_UPDATED
+[14:01:23.016][Root] Current workspace folders: ["file://%WS1%"]
+[14:01:23.019][Root] Keep using the same root file: %WS1%/main.tex
+[14:01:23.020][Event] ROOT_FILE_SEARCHED
+[14:01:23.020][Event] STRUCTURE_UPDATED
+[14:01:23.021][Event] STRUCTURE_UPDATED
+[14:01:26.212][Root] Current workspace folders: ["file://%WS1%"]
+[14:01:26.214][Root] Keep using the same root file: %WS1%/main.tex
+[14:01:26.215][Event] ROOT_FILE_SEARCHED
+[14:01:26.216][Event] STRUCTURE_UPDATED
+[14:01:26.216][Event] STRUCTURE_UPDATED
+[14:01:26.841][Root] Current workspace folders: ["file://%WS1%"]
+[14:01:26.842][Root] Current workspaceRootDir: file://%WS1% .
+[14:01:26.955][Root] Found root file from '.fls': %WS1%/main.tex
+[14:01:26.956][Root] Keep using the same root file: %WS1%/main.tex
+[14:01:26.956][Event] ROOT_FILE_SEARCHED
+[14:01:26.957][Event] STRUCTURE_UPDATED
+[14:01:26.958][Event] STRUCTURE_UPDATED
+[14:01:33.830][Root] Current workspace folders: ["file://%WS1%"]
+[14:01:33.832][Root] Keep using the same root file: %WS1%/main.tex
+[14:01:33.832][Event] ROOT_FILE_SEARCHED
+[14:01:33.832][Event] STRUCTURE_UPDATED
+[14:01:33.833][Event] STRUCTURE_UPDATED
+[14:01:45.092][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[14:01:45.093][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[14:01:45.094][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-en.tex
+[14:01:45.146][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[14:01:45.147][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[14:01:45.148][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[14:01:45.148][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:01:45.149][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:01:45.149][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[14:01:45.149][Build] The document of the active editor: file://%WS1%/lainnya/lembar-pengesahan.tex
+[14:01:45.149][Build] The languageId of the document: latex
+[14:01:45.150][Build] Building root file: %WS1%/main.tex
+[14:01:45.150][Build][Recipe] Build root file %WS1%/main.tex
+[14:01:45.150][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[14:01:45.154][Build][Recipe] Preparing to run recipe: latexmk.
+[14:01:45.154][Build][Recipe] Prepared 1 tools.
+[14:01:45.155][Build][Recipe] outDir: %WS1% .
+[14:01:45.156][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[14:01:45.156][Build] env: {}
+[14:01:45.156][Build] root: %WS1%/main.tex
+[14:01:45.156][Build] cwd: %WS1%
+[14:01:45.163][Build] LaTeX build process spawned with PID 11360.
+[14:01:45.181][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:01:45.184][Cacher] Updated elements in 2.41 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:01:45.185][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[14:01:45.187][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[14:01:45.187][Event] STRUCTURE_UPDATED
+[14:01:46.613][Parser][TexLog] Logged 3 messages.
+[14:01:46.614][Build] Finished a step in recipe with PID 11360.
+[14:01:46.614][Build] Successfully built %WS1%/main.tex .
+[14:01:46.614][Event] BUILD_DONE
+[14:01:46.615][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[14:01:46.615][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[14:01:46.616][Cacher] Parsing .fls %WS1%/main.fls .
+[14:01:46.634][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[14:01:46.635][Cacher] Parsed .aux %WS1%/main.tex .
+[14:01:46.635][Cacher] Parsed .fls %WS1%/main.fls .
+[14:01:46.693][Server] Preview PDF file: file://%WS1%/main.pdf
+[14:01:46.889][Viewer] Handle data type: loaded
+[14:01:46.890][Event] VIEWER_PAGE_LOADED
+[14:01:51.563][Root] Current workspace folders: ["file://%WS1%"]
+[14:01:51.564][Root] Current workspaceRootDir: file://%WS1% .
+[14:01:51.677][Root] Found root file from '.fls': %WS1%/main.tex
+[14:01:51.677][Root] Keep using the same root file: %WS1%/main.tex
+[14:01:51.678][Event] ROOT_FILE_SEARCHED
+[14:01:51.678][Event] STRUCTURE_UPDATED
+[14:01:51.679][Event] STRUCTURE_UPDATED
+[14:01:56.109][Root] Current workspace folders: ["file://%WS1%"]
+[14:01:56.110][Root] Keep using the same root file: %WS1%/main.tex
+[14:01:56.110][Event] ROOT_FILE_SEARCHED
+[14:01:56.111][Event] STRUCTURE_UPDATED
+[14:01:56.112][Event] STRUCTURE_UPDATED
+[14:02:09.822][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:09.824][Root] Current workspaceRootDir: file://%WS1% .
+[14:02:09.919][Root] Found root file from '.fls': %WS1%/main.tex
+[14:02:09.920][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:09.920][Event] ROOT_FILE_SEARCHED
+[14:02:09.920][Event] STRUCTURE_UPDATED
+[14:02:09.922][Event] STRUCTURE_UPDATED
+[14:02:15.975][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan.tex
+[14:02:15.976][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-en.tex
+[14:02:15.977][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/lembar-pengesahan-en.tex
+[14:02:16.052][Cacher][Watcher] "change" emitted on %WS1%/lainnya/lembar-pengesahan.tex.
+[14:02:16.056][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[14:02:16.057][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[14:02:16.057][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:02:16.058][Build] Auto build started detecting the change of a file: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:02:16.058][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/lembar-pengesahan.tex"}
+[14:02:16.058][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[14:02:16.059][Build] The languageId of the document: latex
+[14:02:16.059][Build] Building root file: %WS1%/main.tex
+[14:02:16.059][Build][Recipe] Build root file %WS1%/main.tex
+[14:02:16.059][Event] FILE_CHANGED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[14:02:16.066][Build][Recipe] Preparing to run recipe: latexmk.
+[14:02:16.067][Build][Recipe] Prepared 1 tools.
+[14:02:16.068][Build][Recipe] outDir: %WS1% .
+[14:02:16.069][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[14:02:16.069][Build] env: {}
+[14:02:16.071][Build] root: %WS1%/main.tex
+[14:02:16.072][Build] cwd: %WS1%
+[14:02:16.078][Build] LaTeX build process spawned with PID 11414.
+[14:02:16.091][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:02:16.097][Cacher] Updated elements in 4.60 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[14:02:16.098][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[14:02:16.100][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[14:02:16.100][Event] STRUCTURE_UPDATED
+[14:02:17.559][Parser][TexLog] Logged 3 messages.
+[14:02:17.559][Build] Finished a step in recipe with PID 11414.
+[14:02:17.560][Build] Successfully built %WS1%/main.tex .
+[14:02:17.560][Event] BUILD_DONE
+[14:02:17.560][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[14:02:17.561][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[14:02:17.562][Cacher] Parsing .fls %WS1%/main.fls .
+[14:02:17.583][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[14:02:17.584][Cacher] Parsed .aux %WS1%/main.tex .
+[14:02:17.584][Cacher] Parsed .fls %WS1%/main.fls .
+[14:02:17.642][Server] Preview PDF file: file://%WS1%/main.pdf
+[14:02:17.842][Viewer] Handle data type: loaded
+[14:02:17.842][Event] VIEWER_PAGE_LOADED
+[14:02:27.337][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:27.338][Root] Current workspaceRootDir: file://%WS1% .
+[14:02:27.436][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[14:02:27.436][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:27.436][Event] ROOT_FILE_SEARCHED
+[14:02:27.437][Event] STRUCTURE_UPDATED
+[14:02:27.437][Event] STRUCTURE_UPDATED
+[14:02:29.135][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:29.138][Root] Current workspaceRootDir: file://%WS1% .
+[14:02:29.230][Root] Found root file from '.fls': %WS1%/main.tex
+[14:02:29.231][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:29.231][Event] ROOT_FILE_SEARCHED
+[14:02:29.231][Event] STRUCTURE_UPDATED
+[14:02:29.231][Event] STRUCTURE_UPDATED
+[14:02:29.977][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:29.978][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:29.978][Event] ROOT_FILE_SEARCHED
+[14:02:29.978][Event] STRUCTURE_UPDATED
+[14:02:29.979][Event] STRUCTURE_UPDATED
+[14:02:30.584][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:30.586][Root] Current workspaceRootDir: file://%WS1% .
+[14:02:30.718][Root] Found root file from '.fls': %WS1%/main.tex
+[14:02:30.718][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:30.719][Event] ROOT_FILE_SEARCHED
+[14:02:30.719][Event] STRUCTURE_UPDATED
+[14:02:30.720][Event] STRUCTURE_UPDATED
+[14:02:33.006][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:33.009][Root] Current workspaceRootDir: file://%WS1% .
+[14:02:33.136][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[14:02:33.136][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:33.136][Event] ROOT_FILE_SEARCHED
+[14:02:33.137][Event] STRUCTURE_UPDATED
+[14:02:33.138][Event] STRUCTURE_UPDATED
+[14:02:33.668][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:33.672][Root] Current workspaceRootDir: file://%WS1% .
+[14:02:33.791][Root] Found root file from '.fls': %WS1%/main.tex
+[14:02:33.792][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:33.793][Event] ROOT_FILE_SEARCHED
+[14:02:33.793][Event] STRUCTURE_UPDATED
+[14:02:33.794][Event] STRUCTURE_UPDATED
+[14:02:40.179][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[14:02:40.249][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[14:02:40.251][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[14:02:40.252][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[14:02:40.252][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[14:02:40.253][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[14:02:40.253][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[14:02:40.254][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[14:02:40.255][Build] The languageId of the document: latex
+[14:02:40.255][Build] Building root file: %WS1%/main.tex
+[14:02:40.256][Build][Recipe] Build root file %WS1%/main.tex
+[14:02:40.256][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[14:02:40.266][Build][Recipe] Preparing to run recipe: latexmk.
+[14:02:40.266][Build][Recipe] Prepared 1 tools.
+[14:02:40.268][Build][Recipe] outDir: %WS1% .
+[14:02:40.269][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[14:02:40.269][Build] env: {}
+[14:02:40.269][Build] root: %WS1%/main.tex
+[14:02:40.269][Build] cwd: %WS1%
+[14:02:40.274][Build] LaTeX build process spawned with PID 11505.
+[14:02:40.276][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[14:02:40.276][Cacher] Updated elements in 0.47 ms: %WS1%/sampul/konten-id.tex .
+[14:02:40.277][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[14:02:40.279][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[14:02:40.279][Event] STRUCTURE_UPDATED
+[14:02:40.370][Build] Finished a step in recipe with PID 11505.
+[14:02:40.370][Build] Successfully built %WS1%/main.tex .
+[14:02:40.370][Event] BUILD_DONE
+[14:02:43.110][Extension] onDidSaveTextDocument triggered: file://%WS1%/sampul/konten-id.tex
+[14:02:43.174][Cacher][Watcher] "change" emitted on %WS1%/sampul/konten-id.tex.
+[14:02:43.175][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[14:02:43.176][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[14:02:43.177][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[14:02:43.177][Build] Auto build started detecting the change of a file: %WS1%/sampul/konten-id.tex .
+[14:02:43.177][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/sampul/konten-id.tex"}
+[14:02:43.178][Build] The document of the active editor: file://%WS1%/sampul/konten-id.tex
+[14:02:43.178][Build] The languageId of the document: latex
+[14:02:43.178][Build] Building root file: %WS1%/main.tex
+[14:02:43.179][Build][Recipe] Build root file %WS1%/main.tex
+[14:02:43.179][Event] FILE_CHANGED: "%WS1%/sampul/konten-id.tex"
+[14:02:43.186][Build][Recipe] Preparing to run recipe: latexmk.
+[14:02:43.186][Build][Recipe] Prepared 1 tools.
+[14:02:43.188][Build][Recipe] outDir: %WS1% .
+[14:02:43.189][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[14:02:43.191][Build] env: {}
+[14:02:43.191][Build] root: %WS1%/main.tex
+[14:02:43.192][Build] cwd: %WS1%
+[14:02:43.200][Build] LaTeX build process spawned with PID 11510.
+[14:02:43.203][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[14:02:43.204][Cacher] Updated elements in 0.51 ms: %WS1%/sampul/konten-id.tex .
+[14:02:43.204][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[14:02:43.206][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[14:02:43.206][Event] STRUCTURE_UPDATED
+[14:02:43.301][Build] Finished a step in recipe with PID 11510.
+[14:02:43.302][Build] Successfully built %WS1%/main.tex .
+[14:02:43.302][Event] BUILD_DONE
+[14:02:49.216][Root] Current workspace folders: ["file://%WS1%"]
+[14:02:49.218][Root] Current workspaceRootDir: file://%WS1% .
+[14:02:49.336][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[14:02:49.338][Root] Keep using the same root file: %WS1%/main.tex
+[14:02:49.338][Event] ROOT_FILE_SEARCHED
+[14:02:49.338][Event] STRUCTURE_UPDATED
+[14:02:49.339][Event] STRUCTURE_UPDATED
+[14:03:02.895][Root] Current workspace folders: ["file://%WS1%"]
+[14:03:02.897][Root] Keep using the same root file: %WS1%/main.tex
+[14:03:02.898][Event] ROOT_FILE_SEARCHED
+[14:03:02.898][Event] STRUCTURE_UPDATED
+[14:03:02.898][Event] STRUCTURE_UPDATED
+[14:03:06.367][Event] STRUCTURE_UPDATED
+[14:03:25.390][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak-en.tex
+[14:03:25.411][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak.tex
+[14:03:25.466][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak-en.tex.
+[14:03:25.467][Cacher] Caching %WS1%/lainnya/abstrak-en.tex .
+[14:03:25.467][Cacher] Updated inputs of %WS1%/lainnya/abstrak-en.tex .
+[14:03:25.468][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[14:03:25.468][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak-en.tex .
+[14:03:25.468][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak-en.tex"}
+[14:03:25.468][Build] The document of the active editor: file://%WS1%/lainnya/abstrak.tex
+[14:03:25.469][Build] The languageId of the document: latex
+[14:03:25.469][Build] Building root file: %WS1%/main.tex
+[14:03:25.469][Build][Recipe] Build root file %WS1%/main.tex
+[14:03:25.469][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak-en.tex"
+[14:03:25.469][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak.tex.
+[14:03:25.471][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[14:03:25.471][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[14:03:25.471][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[14:03:25.472][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak.tex .
+[14:03:25.472][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak.tex"}
+[14:03:25.472][Build] Autobuild temporarily disabled.
+[14:03:25.472][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak.tex"
+[14:03:25.483][Build][Recipe] Preparing to run recipe: latexmk.
+[14:03:25.483][Build][Recipe] Prepared 1 tools.
+[14:03:25.485][Build][Recipe] outDir: %WS1% .
+[14:03:25.485][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[14:03:25.486][Build] env: {}
+[14:03:25.486][Build] root: %WS1%/main.tex
+[14:03:25.486][Build] cwd: %WS1%
+[14:03:25.491][Build] LaTeX build process spawned with PID 11552.
+[14:03:25.493][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[14:03:25.494][Cacher] Updated elements in 0.62 ms: %WS1%/lainnya/abstrak-en.tex .
+[14:03:25.495][Event] FILE_PARSED: "%WS1%/lainnya/abstrak-en.tex"
+[14:03:25.503][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[14:03:25.505][Cacher] Updated elements in 1.38 ms: %WS1%/lainnya/abstrak.tex .
+[14:03:25.505][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[14:03:25.506][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[14:03:25.510][Event] STRUCTURE_UPDATED
+[14:03:27.041][Parser][TexLog] Logged 3 messages.
+[14:03:27.041][Build] Finished a step in recipe with PID 11552.
+[14:03:27.042][Build] Successfully built %WS1%/main.tex .
+[14:03:27.042][Event] BUILD_DONE
+[14:03:27.043][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[14:03:27.043][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[14:03:27.044][Cacher] Parsing .fls %WS1%/main.fls .
+[14:03:27.061][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[14:03:27.061][Cacher] Parsed .aux %WS1%/main.tex .
+[14:03:27.062][Cacher] Parsed .fls %WS1%/main.fls .
+[14:03:27.069][Server] Preview PDF file: file://%WS1%/main.pdf
+[14:03:27.256][Viewer] Handle data type: loaded
+[14:03:27.257][Event] VIEWER_PAGE_LOADED
+[14:04:06.708][Extension] onDidSaveTextDocument triggered: file://%WS1%/lainnya/abstrak.tex
+[14:04:06.756][Cacher][Watcher] "change" emitted on %WS1%/lainnya/abstrak.tex.
+[14:04:06.757][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[14:04:06.757][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[14:04:06.758][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[14:04:06.758][Build] Auto build started detecting the change of a file: %WS1%/lainnya/abstrak.tex .
+[14:04:06.759][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/lainnya/abstrak.tex"}
+[14:04:06.759][Build] The document of the active editor: file://%WS1%/lainnya/abstrak.tex
+[14:04:06.759][Build] The languageId of the document: latex
+[14:04:06.759][Build] Building root file: %WS1%/main.tex
+[14:04:06.759][Build][Recipe] Build root file %WS1%/main.tex
+[14:04:06.760][Event] FILE_CHANGED: "%WS1%/lainnya/abstrak.tex"
+[14:04:06.765][Build][Recipe] Preparing to run recipe: latexmk.
+[14:04:06.766][Build][Recipe] Prepared 1 tools.
+[14:04:06.766][Build][Recipe] outDir: %WS1% .
+[14:04:06.768][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[14:04:06.768][Build] env: {}
+[14:04:06.768][Build] root: %WS1%/main.tex
+[14:04:06.768][Build] cwd: %WS1%
+[14:04:06.774][Build] LaTeX build process spawned with PID 11575.
+[14:04:06.777][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[14:04:06.778][Cacher] Updated elements in 0.67 ms: %WS1%/lainnya/abstrak.tex .
+[14:04:06.778][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[14:04:06.781][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[14:04:06.781][Event] STRUCTURE_UPDATED
+[14:04:08.165][Parser][TexLog] Logged 3 messages.
+[14:04:08.165][Build] Finished a step in recipe with PID 11575.
+[14:04:08.166][Build] Successfully built %WS1%/main.tex .
+[14:04:08.166][Event] BUILD_DONE
+[14:04:08.166][Viewer] Call refreshExistingViewer: "%WS1%/main.pdf" .
+[14:04:08.166][Viewer] Refresh PDF viewer: %WS1%/main.pdf
+[14:04:08.167][Cacher] Parsing .fls %WS1%/main.fls .
+[14:04:08.183][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[14:04:08.183][Cacher] Parsed .aux %WS1%/main.tex .
+[14:04:08.184][Cacher] Parsed .fls %WS1%/main.fls .
+[14:04:08.251][Server] Preview PDF file: file://%WS1%/main.pdf
+[14:04:08.448][Viewer] Handle data type: loaded
+[14:04:08.448][Event] VIEWER_PAGE_LOADED
+[14:04:20.928][Root] Current workspace folders: ["file://%WS1%"]
+[14:04:20.929][Root] Current workspaceRootDir: file://%WS1% .
+[14:04:21.027][Root] Found files that might be root including the current root: %WS1%/main.tex .
+[14:04:21.028][Root] Keep using the same root file: %WS1%/main.tex
+[14:04:21.028][Event] ROOT_FILE_SEARCHED
+[14:04:21.028][Event] STRUCTURE_UPDATED
+[14:04:21.029][Event] STRUCTURE_UPDATED

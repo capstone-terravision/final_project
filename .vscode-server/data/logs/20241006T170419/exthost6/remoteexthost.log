@@ -1,0 +1,21 @@
+2024-10-06 17:26:00.355 [info] Extension host with pid 3191 started
+2024-10-06 17:26:00.386 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-06 17:26:00.396 [info] Lock '/home/braceskabane/.vscode-server/data/User/workspaceStorage/2f7efc6368be16893ec4d2234ff8e438/vscode.lock': Lock acquired.
+2024-10-06 17:26:00.401 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-06 17:26:00.401 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-06 17:26:00.506 [info] Eager extensions activated
+2024-10-06 17:26:00.507 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 17:26:00.507 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-06 17:26:04.145 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-06 17:26:06.547 [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onCustomEditor:latex-workshop-pdf-hook'
+2024-10-06 17:26:06.822 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2024-10-06 17:26:46.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:26:46.394 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:26:49.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:26:54.609 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:26:59.677 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:27:04.744 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:27:58.997 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:28:04.105 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:28:09.175 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581
+2024-10-06 17:28:13.395 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3581

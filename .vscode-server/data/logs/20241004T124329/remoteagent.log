@@ -1,0 +1,14 @@
+2024-10-04 12:43:29.593 [info] 
+
+
+
+
+2024-10-04 12:43:29.617 [info] Extension host agent started.
+2024-10-04 12:43:29.682 [info] [127.0.0.1][f95f8b99][ManagementConnection] New connection established.
+2024-10-04 12:43:30.058 [info] [127.0.0.1][b7125de1][ExtensionHostConnection] New connection established.
+2024-10-04 12:43:30.062 [info] [127.0.0.1][b7125de1][ExtensionHostConnection] <426> Launched Extension Host Process.
+2024-10-04 12:43:32.272 [error] Error: unable to verify the first certificate
+    at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket._finishInit (node:_tls_wrap:949:8)
+    at TLSWrap.ssl.onhandshakedone (node:_tls_wrap:730:12)

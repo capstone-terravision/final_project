@@ -1,0 +1,21 @@
+2024-10-06 17:23:40.873 [info] Log level: Info
+2024-10-06 17:23:40.873 [info] Validating found git in: "git"
+2024-10-06 17:23:40.873 [info] Using git "2.43.0" from "git"
+2024-10-06 17:23:40.873 [info] > git rev-parse --show-toplevel [10ms]
+2024-10-06 17:23:40.873 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:23:40.873 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:23:40.873 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:23:40.879 [info] > git rev-parse --show-toplevel [5ms]
+2024-10-06 17:23:40.879 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:23:40.883 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:23:40.883 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:23:40.887 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:23:40.891 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-06 17:23:40.900 [info] Open repository: /home/braceskabane/proposal
+2024-10-06 17:23:40.909 [info] > git config --get commit.template [2ms]
+2024-10-06 17:23:40.914 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 17:23:40.923 [info] > git status -z -uall --find-renames=50% [4ms]
+2024-10-06 17:23:40.936 [info] > git config --get commit.template [4ms]
+2024-10-06 17:23:40.942 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 17:23:40.946 [info] > git status -z -uall --find-renames=50% [1ms]
+2024-10-06 17:23:41.439 [info] > git check-ignore -v -z --stdin [1ms]

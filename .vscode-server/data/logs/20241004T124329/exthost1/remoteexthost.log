@@ -1,0 +1,18 @@
+2024-10-04 12:43:30.511 [info] Extension host with pid 426 started
+2024-10-04 12:43:30.515 [error] Error: EEXIST: file already exists, open '/home/braceskabane/.vscode-server/data/User/workspaceStorage/af5d26c232db7f74479765b67a44b581/vscode.lock'
+2024-10-04 12:43:30.524 [info] Lock '/home/braceskabane/.vscode-server/data/User/workspaceStorage/af5d26c232db7f74479765b67a44b581/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-10-04 12:43:30.528 [info] Lock '/home/braceskabane/.vscode-server/data/User/workspaceStorage/af5d26c232db7f74479765b67a44b581/vscode.lock': The pid 444 appears to be gone.
+2024-10-04 12:43:30.528 [info] Lock '/home/braceskabane/.vscode-server/data/User/workspaceStorage/af5d26c232db7f74479765b67a44b581/vscode.lock': Deleting a stale lock.
+2024-10-04 12:43:30.540 [info] Lock '/home/braceskabane/.vscode-server/data/User/workspaceStorage/af5d26c232db7f74479765b67a44b581/vscode.lock': Lock acquired.
+2024-10-04 12:43:30.612 [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onCustomEditor:latex-workshop-pdf-hook'
+2024-10-04 12:43:30.613 [info] ExtensionService#_doActivateExtension mathematic.vscode-latex, startup: false, activationEvent: 'onLanguage:latex'
+2024-10-04 12:43:30.613 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-04 12:43:31.241 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2024-10-04 12:43:31.691 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-04 12:43:31.745 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-04 12:43:31.746 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-04 12:43:31.928 [info] Eager extensions activated
+2024-10-04 12:43:31.928 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-04 12:43:31.929 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-04 12:49:12.815 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-04 12:49:12.815 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

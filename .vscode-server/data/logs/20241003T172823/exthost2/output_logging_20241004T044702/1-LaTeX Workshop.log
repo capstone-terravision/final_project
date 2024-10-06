@@ -1,0 +1,437 @@
+[04:47:02.334][Logger] New log placeholder %WS1% registered for /home/braceskabane/proposal .
+[04:47:02.334][Extension] Initializing LaTeX Workshop.
+[04:47:02.609][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[04:47:02.662][Server] Creating LaTeX Workshop http and websocket server.
+[04:47:02.796][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[04:47:02.890][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":37571} .
+[04:47:02.956][Server] valdOrigin is http://127.0.0.1:37571
+[04:47:02.997][Extension] Extension root: /home/braceskabane/.vscode-server/extensions/james-yu.latex-workshop-9.20.1
+[04:47:02.998][Extension] $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin
+[04:47:02.998][Extension] $SHELL: /bin/bash
+[04:47:02.999][Extension] $LANG: C.UTF-8
+[04:47:02.999][Extension] $LC_ALL: undefined
+[04:47:02.999][Extension] process.platform: linux
+[04:47:03.000][Extension] process.arch: x64
+[04:47:03.000][Extension] vscode.env.appName: Visual Studio Code
+[04:47:03.000][Extension] vscode.env.remoteName: wsl
+[04:47:03.001][Extension] vscode.env.uiKind: 1
+[04:47:03.078][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[04:47:03.080][Root] Current workspace folders: ["file://%WS1%"]
+[04:47:03.080][Extension] LaTeX Workshop initialized.
+[04:47:03.302][Root] Current workspaceRootDir: file://%WS1% .
+[04:47:03.534][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:37571/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZicmFjZXNrYWJhbmUlMkZwcm9wb3NhbCUyRm1haW4ucGRm .
+[04:47:03.536][Cacher][Watcher] Watched %WS1%/main.pdf with a new .pdf watcher on %WS1% .
+[04:47:03.536][Event] FILE_WATCHED: "%WS1%/main.pdf"
+[04:47:03.558][Root] Found root file from '.fls': %WS1%/main.tex
+[04:47:03.559][Root] Root file changed: from %WS1%/main.tex to %WS1%/main.tex, langID latex . Refresh dependencies
+[04:47:03.559][Event] ROOT_FILE_CHANGED: "%WS1%/main.tex"
+[04:47:03.559][Cacher][Watcher] Reset.
+[04:47:03.560][Cacher][Watcher] Reset.
+[04:47:03.565][Cacher] Adding %WS1%/main.tex .
+[04:47:03.566][Cacher][Watcher] Watched %WS1%/main.tex with a new .* watcher on %WS1% .
+[04:47:03.566][Event] FILE_WATCHED: "%WS1%/main.tex"
+[04:47:03.569][Cacher] Caching %WS1%/main.tex .
+[04:47:03.571][Cacher] Input %WS1%/pustaka/tanda-hubung.tex from %WS1%/main.tex .
+[04:47:03.571][Cacher] Adding %WS1%/pustaka/tanda-hubung.tex .
+[04:47:03.572][Cacher][Watcher] Watched %WS1%/pustaka/tanda-hubung.tex with a new .* watcher on %WS1%/pustaka .
+[04:47:03.572][Event] FILE_WATCHED: "%WS1%/pustaka/tanda-hubung.tex"
+[04:47:03.573][Cacher] Caching %WS1%/pustaka/tanda-hubung.tex .
+[04:47:03.574][Cacher] Updated inputs of %WS1%/pustaka/tanda-hubung.tex .
+[04:47:03.574][Cacher] Parse LaTeX AST: %WS1%/pustaka/tanda-hubung.tex .
+[04:47:03.574][Cacher] Input %WS1%/sampul/sampul-luar.tex from %WS1%/main.tex .
+[04:47:03.575][Cacher] Adding %WS1%/sampul/sampul-luar.tex .
+[04:47:03.575][Cacher][Watcher] Watched %WS1%/sampul/sampul-luar.tex with a new .* watcher on %WS1%/sampul .
+[04:47:03.575][Event] FILE_WATCHED: "%WS1%/sampul/sampul-luar.tex"
+[04:47:03.576][Cacher] Caching %WS1%/sampul/sampul-luar.tex .
+[04:47:03.576][Cacher] Updated inputs of %WS1%/sampul/sampul-luar.tex .
+[04:47:03.577][Cacher] Parse LaTeX AST: %WS1%/sampul/sampul-luar.tex .
+[04:47:03.577][Cacher] Input %WS1%/lainnya/lembar-pengesahan.tex from %WS1%/main.tex .
+[04:47:03.577][Cacher] Adding %WS1%/lainnya/lembar-pengesahan.tex .
+[04:47:03.578][Cacher][Watcher] Watched %WS1%/lainnya/lembar-pengesahan.tex with a new .* watcher on %WS1%/lainnya .
+[04:47:03.578][Event] FILE_WATCHED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[04:47:03.578][Cacher] Caching %WS1%/lainnya/lembar-pengesahan.tex .
+[04:47:03.579][Cacher] Updated inputs of %WS1%/lainnya/lembar-pengesahan.tex .
+[04:47:03.579][Cacher] Parse LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[04:47:03.579][Cacher] Input %WS1%/lainnya/abstrak.tex from %WS1%/main.tex .
+[04:47:03.580][Cacher] Adding %WS1%/lainnya/abstrak.tex .
+[04:47:03.580][Cacher][Watcher] Watched %WS1%/lainnya/abstrak.tex by the .* watcher.
+[04:47:03.580][Event] FILE_WATCHED: "%WS1%/lainnya/abstrak.tex"
+[04:47:03.581][Cacher] Caching %WS1%/lainnya/abstrak.tex .
+[04:47:03.581][Cacher] Updated inputs of %WS1%/lainnya/abstrak.tex .
+[04:47:03.581][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[04:47:03.581][Cacher] Input %WS1%/lainnya/abstrak-en.tex from %WS1%/main.tex .
+[04:47:03.582][Cacher] Adding %WS1%/lainnya/abstrak-en.tex .
+[04:47:03.582][Cacher][Watcher] Watched %WS1%/lainnya/abstrak-en.tex by the .* watcher.
+[04:47:03.582][Event] FILE_WATCHED: "%WS1%/lainnya/abstrak-en.tex"
+[04:47:03.583][Cacher] Caching %WS1%/lainnya/abstrak-en.tex .
+[04:47:03.583][Cacher] Updated inputs of %WS1%/lainnya/abstrak-en.tex .
+[04:47:03.583][Cacher] Parse LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[04:47:03.584][Cacher] Input %WS1%/konten/1-pendahuluan.tex from %WS1%/main.tex .
+[04:47:03.585][Cacher] Adding %WS1%/konten/1-pendahuluan.tex .
+[04:47:03.585][Cacher][Watcher] Watched %WS1%/konten/1-pendahuluan.tex with a new .* watcher on %WS1%/konten .
+[04:47:03.585][Event] FILE_WATCHED: "%WS1%/konten/1-pendahuluan.tex"
+[04:47:03.586][Cacher] Caching %WS1%/konten/1-pendahuluan.tex .
+[04:47:03.586][Cacher] Updated inputs of %WS1%/konten/1-pendahuluan.tex .
+[04:47:03.587][Cacher] Parse LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:47:03.587][Cacher] Input %WS1%/konten/2-tinjauan-pustaka.tex from %WS1%/main.tex .
+[04:47:03.587][Cacher] Adding %WS1%/konten/2-tinjauan-pustaka.tex .
+[04:47:03.587][Cacher][Watcher] Watched %WS1%/konten/2-tinjauan-pustaka.tex by the .* watcher.
+[04:47:03.588][Event] FILE_WATCHED: "%WS1%/konten/2-tinjauan-pustaka.tex"
+[04:47:03.588][Cacher] Caching %WS1%/konten/2-tinjauan-pustaka.tex .
+[04:47:03.588][Cacher] Updated inputs of %WS1%/konten/2-tinjauan-pustaka.tex .
+[04:47:03.589][Cacher] Parse LaTeX AST: %WS1%/konten/2-tinjauan-pustaka.tex .
+[04:47:03.589][Cacher] Input %WS1%/konten/3-metodologi.tex from %WS1%/main.tex .
+[04:47:03.589][Cacher] Adding %WS1%/konten/3-metodologi.tex .
+[04:47:03.589][Cacher][Watcher] Watched %WS1%/konten/3-metodologi.tex by the .* watcher.
+[04:47:03.590][Event] FILE_WATCHED: "%WS1%/konten/3-metodologi.tex"
+[04:47:03.590][Cacher] Caching %WS1%/konten/3-metodologi.tex .
+[04:47:03.591][Cacher] Updated inputs of %WS1%/konten/3-metodologi.tex .
+[04:47:03.591][Cacher] Parse LaTeX AST: %WS1%/konten/3-metodologi.tex .
+[04:47:03.591][Cacher] Input %WS1%/konten/4-lainnya.tex from %WS1%/main.tex .
+[04:47:03.592][Cacher] Adding %WS1%/konten/4-lainnya.tex .
+[04:47:03.592][Cacher][Watcher] Watched %WS1%/konten/4-lainnya.tex by the .* watcher.
+[04:47:03.593][Event] FILE_WATCHED: "%WS1%/konten/4-lainnya.tex"
+[04:47:03.593][Cacher] Caching %WS1%/konten/4-lainnya.tex .
+[04:47:03.594][Cacher] Updated inputs of %WS1%/konten/4-lainnya.tex .
+[04:47:03.594][Cacher] Parse LaTeX AST: %WS1%/konten/4-lainnya.tex .
+[04:47:03.594][Cacher] Input %WS1%/konten/5-jadwal-penelitian.tex from %WS1%/main.tex .
+[04:47:03.595][Cacher] Adding %WS1%/konten/5-jadwal-penelitian.tex .
+[04:47:03.595][Cacher][Watcher] Watched %WS1%/konten/5-jadwal-penelitian.tex by the .* watcher.
+[04:47:03.595][Event] FILE_WATCHED: "%WS1%/konten/5-jadwal-penelitian.tex"
+[04:47:03.595][Cacher] Caching %WS1%/konten/5-jadwal-penelitian.tex .
+[04:47:03.596][Cacher] Updated inputs of %WS1%/konten/5-jadwal-penelitian.tex .
+[04:47:03.596][Cacher] Parse LaTeX AST: %WS1%/konten/5-jadwal-penelitian.tex .
+[04:47:03.596][Cacher] Updated inputs of %WS1%/main.tex .
+[04:47:03.596][Cacher] Parse LaTeX AST: %WS1%/main.tex .
+[04:47:03.596][Event] ROOT_FILE_SEARCHED
+[04:47:03.623][Cacher] Parsed LaTeX AST: %WS1%/pustaka/tanda-hubung.tex .
+[04:47:03.626][Cacher] Updated elements in 2.09 ms: %WS1%/pustaka/tanda-hubung.tex .
+[04:47:03.627][Event] FILE_PARSED: "%WS1%/pustaka/tanda-hubung.tex"
+[04:47:03.642][Cacher] Parsed LaTeX AST: %WS1%/sampul/sampul-luar.tex .
+[04:47:03.644][Cacher] Updated elements in 1.43 ms: %WS1%/sampul/sampul-luar.tex .
+[04:47:03.645][Event] FILE_PARSED: "%WS1%/sampul/sampul-luar.tex"
+[04:47:03.674][Cacher] Parsed LaTeX AST: %WS1%/lainnya/lembar-pengesahan.tex .
+[04:47:03.676][Cacher] Updated elements in 1.79 ms: %WS1%/lainnya/lembar-pengesahan.tex .
+[04:47:03.677][Event] FILE_PARSED: "%WS1%/lainnya/lembar-pengesahan.tex"
+[04:47:03.711][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak.tex .
+[04:47:03.713][Cacher] Updated elements in 1.37 ms: %WS1%/lainnya/abstrak.tex .
+[04:47:03.714][Event] FILE_PARSED: "%WS1%/lainnya/abstrak.tex"
+[04:47:03.767][Cacher] Parsed LaTeX AST: %WS1%/lainnya/abstrak-en.tex .
+[04:47:03.768][Cacher] Updated elements in 0.72 ms: %WS1%/lainnya/abstrak-en.tex .
+[04:47:03.769][Event] FILE_PARSED: "%WS1%/lainnya/abstrak-en.tex"
+[04:47:03.917][Cacher] Parsed LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:47:03.932][Cacher] Updated elements in 14.55 ms: %WS1%/konten/1-pendahuluan.tex .
+[04:47:03.933][Event] FILE_PARSED: "%WS1%/konten/1-pendahuluan.tex"
+[04:47:03.933][Cacher] Parsed LaTeX AST: %WS1%/konten/2-tinjauan-pustaka.tex .
+[04:47:03.946][Cacher] Updated elements in 12.39 ms: %WS1%/konten/2-tinjauan-pustaka.tex .
+[04:47:03.947][Event] FILE_PARSED: "%WS1%/konten/2-tinjauan-pustaka.tex"
+[04:47:03.948][Cacher] Parsed LaTeX AST: %WS1%/konten/3-metodologi.tex .
+[04:47:03.948][Cacher] Updated elements in 0.50 ms: %WS1%/konten/3-metodologi.tex .
+[04:47:03.949][Event] FILE_PARSED: "%WS1%/konten/3-metodologi.tex"
+[04:47:03.953][Cacher] Parsed LaTeX AST: %WS1%/konten/4-lainnya.tex .
+[04:47:03.954][Cacher] Updated elements in 0.41 ms: %WS1%/konten/4-lainnya.tex .
+[04:47:03.954][Event] FILE_PARSED: "%WS1%/konten/4-lainnya.tex"
+[04:47:03.982][Cacher] Parsed LaTeX AST: %WS1%/konten/5-jadwal-penelitian.tex .
+[04:47:03.985][Cacher] Updated elements in 2.44 ms: %WS1%/konten/5-jadwal-penelitian.tex .
+[04:47:03.986][Event] FILE_PARSED: "%WS1%/konten/5-jadwal-penelitian.tex"
+[04:47:03.987][Viewer] Handle data type: open
+[04:47:04.058][Cacher] Parsed LaTeX AST: %WS1%/main.tex .
+[04:47:04.059][File] Calling kpsewhich to resolve book.cls .
+[04:47:04.208][File] kpsewhich returned with '/usr/share/texlive/texmf-dist/tex/latex/base/book.cls'.
+[04:47:04.215][Cacher] Bib %WS1%/pustaka/pustaka.bib from %WS1%/main.tex .
+[04:47:04.216][Intelli][Citation] Parsing .bib entries from %WS1%/pustaka/pustaka.bib
+[04:47:04.217][Intelli][Citation] Parse BibTeX AST from %WS1%/pustaka/pustaka.bib .
+[04:47:04.217][Cacher][Watcher] Watched %WS1%/pustaka/pustaka.bib with a new .bib watcher on %WS1%/pustaka .
+[04:47:04.217][Event] FILE_WATCHED: "%WS1%/pustaka/pustaka.bib"
+[04:47:04.218][Cacher] Updated elements in 159.58 ms: %WS1%/main.tex .
+[04:47:04.219][Event] FILE_PARSED: "%WS1%/main.tex"
+[04:47:04.221][Cacher] Parsing .fls %WS1%/main.fls .
+[04:47:04.237][Cacher] Adding %WS1%/sampul/konten-id.tex .
+[04:47:04.237][Cacher][Watcher] Watched %WS1%/sampul/konten-id.tex by the .* watcher.
+[04:47:04.237][Event] FILE_WATCHED: "%WS1%/sampul/konten-id.tex"
+[04:47:04.237][Cacher] Found %WS1%/sampul/konten-id.tex from .fls %WS1%/main.fls , caching.
+[04:47:04.238][Cacher] Caching %WS1%/sampul/konten-id.tex .
+[04:47:04.238][Cacher] Updated inputs of %WS1%/sampul/konten-id.tex .
+[04:47:04.239][Cacher] Parse LaTeX AST: %WS1%/sampul/konten-id.tex .
+[04:47:04.239][Cacher] Adding %WS1%/sampul/gambar/sampul-luar-tipis.png .
+[04:47:04.240][Cacher][Watcher] Watched %WS1%/sampul/gambar/sampul-luar-tipis.png with a new .* watcher on %WS1%/sampul/gambar .
+[04:47:04.240][Event] FILE_WATCHED: "%WS1%/sampul/gambar/sampul-luar-tipis.png"
+[04:47:04.251][Cacher] Adding %WS1%/gambar/blueprint.jpg .
+[04:47:04.251][Cacher][Watcher] Watched %WS1%/gambar/blueprint.jpg with a new .* watcher on %WS1%/gambar .
+[04:47:04.252][Event] FILE_WATCHED: "%WS1%/gambar/blueprint.jpg"
+[04:47:04.253][Cacher] Found .aux %WS1%/main.tex from .fls %WS1%/main.fls , parsing.
+[04:47:04.254][Cacher] Parsed .aux %WS1%/main.tex .
+[04:47:04.254][Cacher] Parsed .fls %WS1%/main.fls .
+[04:47:04.258][Structure] Structure force updated with 0 root sections for %WS1%/main.tex .
+[04:47:04.258][Event] STRUCTURE_UPDATED
+[04:47:04.260][Intelli][Citation] Parsed 11 bib entries from %WS1%/pustaka/pustaka.bib .
+[04:47:04.260][Event] FILE_PARSED: "%WS1%/pustaka/pustaka.bib"
+[04:47:04.265][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[04:47:04.265][Event] STRUCTURE_UPDATED
+[04:47:04.276][Cacher] Parsed LaTeX AST: %WS1%/sampul/konten-id.tex .
+[04:47:04.277][Cacher] Updated elements in 0.61 ms: %WS1%/sampul/konten-id.tex .
+[04:47:04.277][Event] FILE_PARSED: "%WS1%/sampul/konten-id.tex"
+[04:47:04.279][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[04:47:04.280][Event] STRUCTURE_UPDATED
+[04:47:04.321][Server] Preview PDF file: file://%WS1%/main.pdf
+[04:47:04.834][Viewer] Handle data type: loaded
+[04:47:04.835][Event] VIEWER_PAGE_LOADED
+[04:47:40.073][Extension] onDidSaveTextDocument triggered: file://%WS1%/konten/1-pendahuluan.tex
+[04:47:40.135][Cacher][Watcher] "change" emitted on %WS1%/konten/1-pendahuluan.tex.
+[04:47:40.138][Cacher] Caching %WS1%/konten/1-pendahuluan.tex .
+[04:47:40.139][Cacher] Updated inputs of %WS1%/konten/1-pendahuluan.tex .
+[04:47:40.140][Cacher] Parse LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:47:40.140][Build] Auto build started detecting the change of a file: %WS1%/konten/1-pendahuluan.tex .
+[04:47:40.140][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/konten/1-pendahuluan.tex"}
+[04:47:40.141][Build] The document of the active editor: file://%WS1%/konten/1-pendahuluan.tex
+[04:47:40.141][Build] The languageId of the document: latex
+[04:47:40.141][Build] Building root file: %WS1%/main.tex
+[04:47:40.142][Build][Recipe] Build root file %WS1%/main.tex
+[04:47:40.142][Event] FILE_CHANGED: "%WS1%/konten/1-pendahuluan.tex"
+[04:47:40.148][Build][Recipe] Preparing to run recipe: latexmk.
+[04:47:40.148][Build][Recipe] Prepared 1 tools.
+[04:47:40.163][Build][Recipe] outDir: %WS1% .
+[04:47:40.170][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:47:40.170][Build] env: {}
+[04:47:40.171][Build] root: %WS1%/main.tex
+[04:47:40.171][Build] cwd: %WS1%
+[04:47:40.179][Build] LaTeX build process spawned with PID 2592.
+[04:47:40.304][Cacher] Parsed LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:47:40.313][Cacher] Updated elements in 8.58 ms: %WS1%/konten/1-pendahuluan.tex .
+[04:47:40.314][Event] FILE_PARSED: "%WS1%/konten/1-pendahuluan.tex"
+[04:47:40.316][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[04:47:40.316][Event] STRUCTURE_UPDATED
+[04:47:41.892][Parser][TexLog] Logged 22 messages.
+[04:47:41.895][Build] Recipe returns with error code 12/null on PID 2592.
+[04:47:41.895][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:47:41.895][Build] Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:47:41.896][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[04:47:41.898][Cleaner] Clean temporary files command The command is latexmk:["-outdir=%WS1%","-c","%WS1%/main.tex"].
+[04:47:41.905][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:47:41.905][Build] env: {}
+[04:47:41.906][Build] root: %WS1%/main.tex
+[04:47:41.906][Build] cwd: %WS1%
+[04:47:41.912][Build] LaTeX build process spawned with PID 2597.
+[04:47:42.002][Event] AUTO_CLEANED
+[04:47:41.053][Parser][TexLog] Logged 27 messages.
+[04:47:41.055][Build] Recipe returns with error code 12/null on PID 2597.
+[04:47:41.055][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:47:41.055][Build] Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:47:44.988][Extension] onDidSaveTextDocument triggered: file://%WS1%/konten/1-pendahuluan.tex
+[04:47:45.064][Cacher][Watcher] "change" emitted on %WS1%/konten/1-pendahuluan.tex.
+[04:47:45.070][Cacher] Caching %WS1%/konten/1-pendahuluan.tex .
+[04:47:45.071][Cacher] Updated inputs of %WS1%/konten/1-pendahuluan.tex .
+[04:47:45.072][Cacher] Parse LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:47:45.072][Build] Auto build started detecting the change of a file: %WS1%/konten/1-pendahuluan.tex .
+[04:47:45.073][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/konten/1-pendahuluan.tex"}
+[04:47:45.073][Build] The document of the active editor: file://%WS1%/konten/1-pendahuluan.tex
+[04:47:45.074][Build] The languageId of the document: latex
+[04:47:45.074][Build] Building root file: %WS1%/main.tex
+[04:47:45.075][Build][Recipe] Build root file %WS1%/main.tex
+[04:47:45.075][Event] FILE_CHANGED: "%WS1%/konten/1-pendahuluan.tex"
+[04:47:45.081][Build][Recipe] Preparing to run recipe: latexmk.
+[04:47:45.082][Build][Recipe] Prepared 1 tools.
+[04:47:45.085][Build][Recipe] outDir: %WS1% .
+[04:47:45.086][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:47:45.086][Build] env: {}
+[04:47:45.086][Build] root: %WS1%/main.tex
+[04:47:45.087][Build] cwd: %WS1%
+[04:47:45.094][Build] LaTeX build process spawned with PID 2606.
+[04:47:45.153][Cacher] Parsed LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:47:45.161][Cacher] Updated elements in 7.70 ms: %WS1%/konten/1-pendahuluan.tex .
+[04:47:45.162][Event] FILE_PARSED: "%WS1%/konten/1-pendahuluan.tex"
+[04:47:45.166][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[04:47:45.167][Event] STRUCTURE_UPDATED
+[04:47:46.188][Cacher][Watcher] "change" emitted on %WS1%/main.pdf after polling for 4908 ms.
+[04:47:46.189][Event] FILE_CHANGED: "%WS1%/main.pdf"
+[04:47:46.780][Parser][TexLog] Logged 34 messages.
+[04:47:46.782][Build] Recipe returns with error code 12/null on PID 2606.
+[04:47:46.782][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:47:46.783][Build] Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:47:46.783][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[04:47:46.784][Cleaner] Clean temporary files command The command is latexmk:["-outdir=%WS1%","-c","%WS1%/main.tex"].
+[04:47:46.791][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:47:46.791][Build] env: {}
+[04:47:46.792][Build] root: %WS1%/main.tex
+[04:47:46.792][Build] cwd: %WS1%
+[04:47:46.798][Build] LaTeX build process spawned with PID 2611.
+[04:47:46.887][Event] AUTO_CLEANED
+[04:47:48.453][Parser][TexLog] Logged 39 messages.
+[04:47:48.455][Build] Recipe returns with error code 12/null on PID 2611.
+[04:47:48.455][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:47:48.455][Build] Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:48:45.451][Extension] onDidSaveTextDocument triggered: file://%WS1%/konten/1-pendahuluan.tex
+[04:48:45.504][Cacher][Watcher] "change" emitted on %WS1%/konten/1-pendahuluan.tex.
+[04:48:45.508][Cacher] Caching %WS1%/konten/1-pendahuluan.tex .
+[04:48:45.509][Cacher] Updated inputs of %WS1%/konten/1-pendahuluan.tex .
+[04:48:45.510][Cacher] Parse LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:48:45.511][Build] Auto build started detecting the change of a file: %WS1%/konten/1-pendahuluan.tex .
+[04:48:45.511][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/konten/1-pendahuluan.tex"}
+[04:48:45.511][Build] The document of the active editor: file://%WS1%/konten/1-pendahuluan.tex
+[04:48:45.512][Build] The languageId of the document: latex
+[04:48:45.512][Build] Building root file: %WS1%/main.tex
+[04:48:45.512][Build][Recipe] Build root file %WS1%/main.tex
+[04:48:45.513][Event] FILE_CHANGED: "%WS1%/konten/1-pendahuluan.tex"
+[04:48:45.521][Build][Recipe] Preparing to run recipe: latexmk.
+[04:48:45.522][Build][Recipe] Prepared 1 tools.
+[04:48:45.525][Build][Recipe] outDir: %WS1% .
+[04:48:45.526][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:48:45.527][Build] env: {}
+[04:48:45.527][Build] root: %WS1%/main.tex
+[04:48:45.528][Build] cwd: %WS1%
+[04:48:45.536][Build] LaTeX build process spawned with PID 2630.
+[04:48:45.649][Cacher] Parsed LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:48:45.654][Cacher] Updated elements in 4.87 ms: %WS1%/konten/1-pendahuluan.tex .
+[04:48:45.655][Event] FILE_PARSED: "%WS1%/konten/1-pendahuluan.tex"
+[04:48:45.656][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[04:48:45.657][Event] STRUCTURE_UPDATED
+[04:48:46.629][Cacher][Watcher] "change" emitted on %WS1%/main.pdf after polling for 60391 ms.
+[04:48:46.630][Event] FILE_CHANGED: "%WS1%/main.pdf"
+[04:48:47.175][Parser][TexLog] Logged 35 messages.
+[04:48:47.177][Build] Recipe returns with error code 12/null on PID 2630.
+[04:48:47.177][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:48:47.177][Build] Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:48:47.178][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[04:48:47.179][Cleaner] Clean temporary files command The command is latexmk:["-outdir=%WS1%","-c","%WS1%/main.tex"].
+[04:48:47.186][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:48:47.187][Build] env: {}
+[04:48:47.187][Build] root: %WS1%/main.tex
+[04:48:47.187][Build] cwd: %WS1%
+[04:48:47.192][Build] LaTeX build process spawned with PID 2635.
+[04:48:47.280][Event] AUTO_CLEANED
+[04:48:48.901][Parser][TexLog] Logged 40 messages.
+[04:48:48.902][Build] Recipe returns with error code 12/null on PID 2635.
+[04:48:48.902][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:48:48.902][Build] Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:49:10.766][Extension] onDidSaveTextDocument triggered: file://%WS1%/konten/1-pendahuluan.tex
+[04:49:10.829][Cacher][Watcher] "change" emitted on %WS1%/konten/1-pendahuluan.tex.
+[04:49:10.835][Cacher] Caching %WS1%/konten/1-pendahuluan.tex .
+[04:49:10.836][Cacher] Updated inputs of %WS1%/konten/1-pendahuluan.tex .
+[04:49:10.837][Cacher] Parse LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:49:10.837][Build] Auto build started detecting the change of a file: %WS1%/konten/1-pendahuluan.tex .
+[04:49:10.838][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/konten/1-pendahuluan.tex"}
+[04:49:10.838][Build] The document of the active editor: file://%WS1%/konten/1-pendahuluan.tex
+[04:49:10.839][Build] The languageId of the document: latex
+[04:49:10.839][Build] Building root file: %WS1%/main.tex
+[04:49:10.839][Build][Recipe] Build root file %WS1%/main.tex
+[04:49:10.840][Event] FILE_CHANGED: "%WS1%/konten/1-pendahuluan.tex"
+[04:49:10.846][Build][Recipe] Preparing to run recipe: latexmk.
+[04:49:10.847][Build][Recipe] Prepared 1 tools.
+[04:49:10.848][Build][Recipe] outDir: %WS1% .
+[04:49:10.852][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:49:10.852][Build] env: {}
+[04:49:10.852][Build] root: %WS1%/main.tex
+[04:49:10.852][Build] cwd: %WS1%
+[04:49:10.859][Build] LaTeX build process spawned with PID 2643.
+[04:49:10.975][Cacher] Parsed LaTeX AST: %WS1%/konten/1-pendahuluan.tex .
+[04:49:10.983][Cacher] Updated elements in 8.07 ms: %WS1%/konten/1-pendahuluan.tex .
+[04:49:10.984][Event] FILE_PARSED: "%WS1%/konten/1-pendahuluan.tex"
+[04:49:10.985][Structure] Structure force updated with 10 root sections for %WS1%/main.tex .
+[04:49:10.986][Event] STRUCTURE_UPDATED
+[04:49:12.030][Cacher][Watcher] "change" emitted on %WS1%/main.pdf after polling for 25378 ms.
+[04:49:12.031][Event] FILE_CHANGED: "%WS1%/main.pdf"
+[04:49:09.926][Parser][TexLog] Logged 34 messages.
+[04:49:09.927][Build] Recipe returns with error code 12/null on PID 2643.
+[04:49:09.927][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:49:09.927][Build] Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:49:09.927][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[04:49:09.929][Cleaner] Clean temporary files command The command is latexmk:["-outdir=%WS1%","-c","%WS1%/main.tex"].
+[04:49:09.935][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%","%WS1%/main"].
+[04:49:09.936][Build] env: {}
+[04:49:09.936][Build] root: %WS1%/main.tex
+[04:49:09.936][Build] cwd: %WS1%
+[04:49:09.941][Build] LaTeX build process spawned with PID 2650.
+[04:49:10.031][Event] AUTO_CLEANED
+[04:49:11.688][Parser][TexLog] Logged 39 messages.
+[04:49:11.690][Build] Recipe returns with error code 12/null on PID 2650.
+[04:49:11.690][Build] Does the executable exist? $PATH: /home/braceskabane/.vscode-server/bin/b380da4ef1ee00e224a15c1d4d9793e27c2b6302/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Tesseract-OCR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/gradle-8.5/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/ACER/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/ACER/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ACER/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ACER/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/ACER/AppData/Roaming/npm:/mnt/c/Users/ACER/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/zulu-17/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/mnt/c/Program Files/MiKTeX/miktex/bin/x64/:/snap/bin, $Path: undefined, $SHELL: /bin/bash
+[04:49:11.690][Build] Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+
+[04:49:16.061][Commander] ACTIONS command invoked.

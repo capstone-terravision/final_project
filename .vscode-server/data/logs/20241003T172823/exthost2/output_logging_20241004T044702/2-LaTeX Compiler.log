@@ -1,0 +1,1988 @@
+ReadyRc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  konten/1-pendahuluan.tex
+Category 'changed_user':
+  konten/1-pendahuluan.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:86: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:87: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 87
+[][]
+
+./konten/1-pendahuluan.tex:88: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 88
+[][]
+
+./konten/1-pendahuluan.tex:89: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 89
+[][]
+
+./konten/1-pendahuluan.tex:90: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 90
+[][]
+
+./konten/1-pendahuluan.tex:91: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{enumarate}
+                    
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 314966 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8]
+No file main.toc.
+[9] [10]
+No file main.lof.
+[11] [12]
+No file main.lot.
+[13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:86: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:87: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 87
+[][]
+
+./konten/1-pendahuluan.tex:88: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 88
+[][]
+
+./konten/1-pendahuluan.tex:89: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 89
+[][]
+
+./konten/1-pendahuluan.tex:90: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 90
+[][]
+
+./konten/1-pendahuluan.tex:91: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{enumarate}
+                    
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+
+LaTeX Warning: Reference `eq:FirstLaw' on page 5 undefined on input line 14.
+
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+
+LaTeX Warning: Reference `fig:Blueprint' on page 7 undefined on input line 20.
+
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+
+LaTeX Warning: Reference `tbl:timeline' on page 11 undefined on input line 36.
+
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 311244 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Summary of warnings from last run of *latex:
+  Latex failed to resolve 3 reference(s)
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  konten/1-pendahuluan.tex
+Category 'changed_user':
+  konten/1-pendahuluan.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:86: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:87: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 87
+[][]
+
+./konten/1-pendahuluan.tex:88: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 88
+[][]
+
+./konten/1-pendahuluan.tex:89: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 89
+[][]
+
+./konten/1-pendahuluan.tex:90: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 90
+[][]
+
+./konten/1-pendahuluan.tex:91: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{enumarate}
+                    
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+
+./konten/1-pendahuluan.tex:112: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \begin{enumarate}
+                       
+
+./konten/1-pendahuluan.tex:113: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113     \item M
+                 enyediakan avatar hyperrealistic yang dapat digunakan sebag...
+
+Underfull \hbox (badness 10000) detected at line 113
+[][]
+
+./konten/1-pendahuluan.tex:114: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114     \item M
+                 embuka peluang untuk merchandise digital baru berbasis avat...
+
+Underfull \hbox (badness 10000) detected at line 114
+[][]
+
+./konten/1-pendahuluan.tex:115: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115     \item M
+                 enawarkan cara baru untuk berinteraksi dengan penggemar mel...
+
+Underfull \hbox (badness 10000) detected at line 115
+[][]
+
+./konten/1-pendahuluan.tex:116: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116     \item M
+                 eningkatkan pengalaman interaksi dengan artis favorit melal...
+
+Underfull \hbox (badness 10000) detected at line 116
+[][]
+
+./konten/1-pendahuluan.tex:117: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117     \item M
+                 embuka peluang eksplorasi integrasi avatar hyperrealistic d...
+
+Underfull \hbox (badness 10000) detected at line 117
+[][]
+
+./konten/1-pendahuluan.tex:118: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \end{enumarate}
+                     
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 315356 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8]
+No file main.toc.
+[9] [10]
+No file main.lof.
+[11] [12]
+No file main.lot.
+[13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:86: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:87: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 87
+[][]
+
+./konten/1-pendahuluan.tex:88: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 88
+[][]
+
+./konten/1-pendahuluan.tex:89: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 89
+[][]
+
+./konten/1-pendahuluan.tex:90: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 90
+[][]
+
+./konten/1-pendahuluan.tex:91: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{enumarate}
+                    
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+
+./konten/1-pendahuluan.tex:112: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \begin{enumarate}
+                       
+
+./konten/1-pendahuluan.tex:113: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113     \item M
+                 enyediakan avatar hyperrealistic yang dapat digunakan sebag...
+
+Underfull \hbox (badness 10000) detected at line 113
+[][]
+
+./konten/1-pendahuluan.tex:114: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114     \item M
+                 embuka peluang untuk merchandise digital baru berbasis avat...
+
+Underfull \hbox (badness 10000) detected at line 114
+[][]
+
+./konten/1-pendahuluan.tex:115: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115     \item M
+                 enawarkan cara baru untuk berinteraksi dengan penggemar mel...
+
+Underfull \hbox (badness 10000) detected at line 115
+[][]
+
+./konten/1-pendahuluan.tex:116: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116     \item M
+                 eningkatkan pengalaman interaksi dengan artis favorit melal...
+
+Underfull \hbox (badness 10000) detected at line 116
+[][]
+
+./konten/1-pendahuluan.tex:117: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117     \item M
+                 embuka peluang eksplorasi integrasi avatar hyperrealistic d...
+
+Underfull \hbox (badness 10000) detected at line 117
+[][]
+
+./konten/1-pendahuluan.tex:118: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \end{enumarate}
+                     
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+
+LaTeX Warning: Reference `eq:FirstLaw' on page 5 undefined on input line 14.
+
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+
+LaTeX Warning: Reference `fig:Blueprint' on page 7 undefined on input line 20.
+
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+
+LaTeX Warning: Reference `tbl:timeline' on page 11 undefined on input line 36.
+
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 311633 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Summary of warnings from last run of *latex:
+  Latex failed to resolve 3 reference(s)
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  konten/1-pendahuluan.tex
+Category 'changed_user':
+  konten/1-pendahuluan.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:93: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 
+     
+
+./konten/1-pendahuluan.tex:94: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:95: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 95
+[][]
+[2]
+
+./konten/1-pendahuluan.tex:96: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 96
+[][]
+
+./konten/1-pendahuluan.tex:97: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 97
+[][]
+
+./konten/1-pendahuluan.tex:98: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 98
+[][]
+
+./konten/1-pendahuluan.tex:99: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 \end{enumarate}
+                    
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
+
+
+./konten/1-pendahuluan.tex:120: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 \begin{enumarate}
+                       
+
+./konten/1-pendahuluan.tex:121: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121     \item M
+                 enyediakan avatar hyperrealistic yang dapat digunakan sebag...
+
+Underfull \hbox (badness 10000) detected at line 121
+[][]
+
+./konten/1-pendahuluan.tex:122: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122     \item M
+                 embuka peluang untuk merchandise digital baru berbasis avat...
+
+Underfull \hbox (badness 10000) detected at line 122
+[][]
+
+./konten/1-pendahuluan.tex:123: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123     \item M
+                 enawarkan cara baru untuk berinteraksi dengan penggemar mel...
+
+Underfull \hbox (badness 10000) detected at line 123
+[][]
+
+./konten/1-pendahuluan.tex:124: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124     \item M
+                 eningkatkan pengalaman interaksi dengan artis favorit melal...
+
+Underfull \hbox (badness 10000) detected at line 124
+[][]
+
+./konten/1-pendahuluan.tex:125: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125     \item M
+                 embuka peluang eksplorasi integrasi avatar hyperrealistic d...
+
+Underfull \hbox (badness 10000) detected at line 125
+[][]
+
+./konten/1-pendahuluan.tex:126: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \end{enumarate}
+                     
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 315411 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8]
+No file main.toc.
+[9] [10]
+No file main.lof.
+[11] [12]
+No file main.lot.
+[13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:93: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 
+     
+
+./konten/1-pendahuluan.tex:94: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:95: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 95
+[][]
+[2]
+
+./konten/1-pendahuluan.tex:96: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 96
+[][]
+
+./konten/1-pendahuluan.tex:97: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 97
+[][]
+
+./konten/1-pendahuluan.tex:98: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 98
+[][]
+
+./konten/1-pendahuluan.tex:99: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 \end{enumarate}
+                    
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
+
+
+./konten/1-pendahuluan.tex:120: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 \begin{enumarate}
+                       
+
+./konten/1-pendahuluan.tex:121: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121     \item M
+                 enyediakan avatar hyperrealistic yang dapat digunakan sebag...
+
+Underfull \hbox (badness 10000) detected at line 121
+[][]
+
+./konten/1-pendahuluan.tex:122: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122     \item M
+                 embuka peluang untuk merchandise digital baru berbasis avat...
+
+Underfull \hbox (badness 10000) detected at line 122
+[][]
+
+./konten/1-pendahuluan.tex:123: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123     \item M
+                 enawarkan cara baru untuk berinteraksi dengan penggemar mel...
+
+Underfull \hbox (badness 10000) detected at line 123
+[][]
+
+./konten/1-pendahuluan.tex:124: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124     \item M
+                 eningkatkan pengalaman interaksi dengan artis favorit melal...
+
+Underfull \hbox (badness 10000) detected at line 124
+[][]
+
+./konten/1-pendahuluan.tex:125: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125     \item M
+                 embuka peluang eksplorasi integrasi avatar hyperrealistic d...
+
+Underfull \hbox (badness 10000) detected at line 125
+[][]
+
+./konten/1-pendahuluan.tex:126: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \end{enumarate}
+                     
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+
+LaTeX Warning: Reference `eq:FirstLaw' on page 5 undefined on input line 14.
+
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+
+LaTeX Warning: Reference `fig:Blueprint' on page 7 undefined on input line 20.
+
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+
+LaTeX Warning: Reference `tbl:timeline' on page 11 undefined on input line 36.
+
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 311762 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Summary of warnings from last run of *latex:
+  Latex failed to resolve 3 reference(s)
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  konten/1-pendahuluan.tex
+Category 'changed_user':
+  konten/1-pendahuluan.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (./main.out) (./main.out) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8] (./main.toc
+Underfull \vbox (badness 10000) has occurred while \output is active [9]) [10] (./main.lof) [11] [12] (./main.lot) [13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:86: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:87: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 87
+[][]
+
+./konten/1-pendahuluan.tex:88: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 88
+[][]
+
+./konten/1-pendahuluan.tex:89: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 89
+[][]
+
+./konten/1-pendahuluan.tex:90: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 90
+[][]
+
+./konten/1-pendahuluan.tex:91: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{enumarate}
+                    
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+
+./konten/1-pendahuluan.tex:112: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \begin{enumarate}
+                       
+
+./konten/1-pendahuluan.tex:113: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113     \item M
+                 enyediakan avatar hyperrealistic yang dapat digunakan sebag...
+
+Underfull \hbox (badness 10000) detected at line 113
+[][]
+
+./konten/1-pendahuluan.tex:114: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114     \item M
+                 embuka peluang untuk merchandise digital baru berbasis avat...
+
+Underfull \hbox (badness 10000) detected at line 114
+[][]
+
+./konten/1-pendahuluan.tex:115: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115     \item M
+                 enawarkan cara baru untuk berinteraksi dengan penggemar mel...
+
+Underfull \hbox (badness 10000) detected at line 115
+[][]
+
+./konten/1-pendahuluan.tex:116: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116     \item M
+                 eningkatkan pengalaman interaksi dengan artis favorit melal...
+
+Underfull \hbox (badness 10000) detected at line 116
+[][]
+
+./konten/1-pendahuluan.tex:117: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117     \item M
+                 embuka peluang eksplorasi integrasi avatar hyperrealistic d...
+
+Underfull \hbox (badness 10000) detected at line 117
+[][]
+
+./konten/1-pendahuluan.tex:118: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \end{enumarate}
+                     
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux) )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 315356 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+
+Rc files read:
+  /etc/LatexMk
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/braceskabane/proposal/main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/braceskabane/proposal/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty))) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty))) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\spacefactor' on input line 4062.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@m' on input line 4062.
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty) (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx)))) (/usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty))) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/txfonts.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty) (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty) (./pustaka/tanda-hubung.tex) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd) (./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx) (./main.bbl) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (./sampul/sampul-luar.tex (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txss.fd) (./sampul/konten-id.tex) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./sampul/gambar/sampul-luar-tipis.png>]) (./lainnya/lembar-pengesahan.tex [2] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd) (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd)) [3] [4] (./lainnya/abstrak.tex) [5] [6] (./lainnya/abstrak-en.tex) [7] [8]
+No file main.toc.
+[9] [10]
+No file main.lof.
+[11] [12]
+No file main.lot.
+[13] [14] (./konten/1-pendahuluan.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--29
+
+
+Overfull \hbox (9.14764pt too wide) in paragraph at lines 30--40
+[]\OT1/txr/m/n/12 Integrasi teknologi blockchain, khusus-nya melalui peng-gu-naan Non-Fungible To-kens (NFT),
+
+Overfull \hbox (3.1319pt too wide) in paragraph at lines 30--40
+\OT1/txr/m/n/12 mem-buka pelu-ang un-tuk men-cip-takan mer-chan-dise dig-i-tal yang unik, da-pat di-ver-i-fikasi keaslian-
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--40
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--52
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+
+./konten/1-pendahuluan.tex:86: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \begin{enumarate}
+                      
+
+./konten/1-pendahuluan.tex:87: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87     \item P
+                engembangan avatar dilakukan menggunakan Unreal Engine 5 dan...
+
+Underfull \hbox (badness 10000) detected at line 87
+[][]
+
+./konten/1-pendahuluan.tex:88: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88     \item I
+                ntegrasi Facial Capture terbatas pada ekspresi wajah dan lip...
+
+Underfull \hbox (badness 10000) detected at line 88
+[][]
+
+./konten/1-pendahuluan.tex:89: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89     \item I
+                mplementasi metaverse dibatasi pada lingkungan berbasis Web ...
+
+Underfull \hbox (badness 10000) detected at line 89
+[][]
+
+./konten/1-pendahuluan.tex:90: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90     \item A
+                spek blockchain dan NFT tidak termasuk dalam lingkup pengemb...
+
+Underfull \hbox (badness 10000) detected at line 90
+[][]
+
+./konten/1-pendahuluan.tex:91: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \end{enumarate}
+                    
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+
+./konten/1-pendahuluan.tex:112: LaTeX Error: Environment enumarate undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \begin{enumarate}
+                       
+
+./konten/1-pendahuluan.tex:113: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113     \item M
+                 enyediakan avatar hyperrealistic yang dapat digunakan sebag...
+
+Underfull \hbox (badness 10000) detected at line 113
+[][]
+
+./konten/1-pendahuluan.tex:114: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114     \item M
+                 embuka peluang untuk merchandise digital baru berbasis avat...
+
+Underfull \hbox (badness 10000) detected at line 114
+[][]
+
+./konten/1-pendahuluan.tex:115: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115     \item M
+                 enawarkan cara baru untuk berinteraksi dengan penggemar mel...
+
+Underfull \hbox (badness 10000) detected at line 115
+[][]
+
+./konten/1-pendahuluan.tex:116: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116     \item M
+                 eningkatkan pengalaman interaksi dengan artis favorit melal...
+
+Underfull \hbox (badness 10000) detected at line 116
+[][]
+
+./konten/1-pendahuluan.tex:117: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117     \item M
+                 embuka peluang eksplorasi integrasi avatar hyperrealistic d...
+
+Underfull \hbox (badness 10000) detected at line 117
+[][]
+
+./konten/1-pendahuluan.tex:118: LaTeX Error: \begin{document} ended by \end{enumarate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \end{enumarate}
+                     
+) [3] [4] (./konten/2-tinjauan-pustaka.tex
+Chapter 2.
+
+LaTeX Warning: Reference `eq:FirstLaw' on page 5 undefined on input line 14.
+
+) [5] [6] (./konten/3-metodologi.tex
+Chapter 3.
+
+LaTeX Warning: Reference `fig:Blueprint' on page 7 undefined on input line 20.
+
+) [7 <./gambar/blueprint.jpg>] [8] (./konten/4-lainnya.tex
+Chapter 4.
+) [9] [10] (./konten/5-jadwal-penelitian.tex
+Chapter 5.
+
+LaTeX Warning: Reference `tbl:timeline' on page 11 undefined on input line 36.
+
+) [11] [12] (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txtt.fd)
+Overfull \hbox (7.48163pt too wide) in paragraph at lines 176--176
+[]\OT1/txr/m/n/12 I. Rud-din, H. San-toso, and R. E. In-dra-jit, ``Dig-i-tal-isasi musik in-dus-tri: Bagaimana teknologi
+[13] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+ )
+(see the transcript file for additional information)</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (27 pages, 311633 bytes).
+SyncTeX written on main.synctex.gz.
+Transcript written on main.log.
+Latexmk: Missing input file 'main.toc' (or dependence on it) from following:
+  No file main.toc.
+Latexmk: Missing input file 'main.lof' (or dependence on it) from following:
+  No file main.lof.
+Latexmk: Missing input file 'main.lot' (or dependence on it) from following:
+  No file main.lot.
+Latexmk: ====Undefined refs and citations with line #s in .tex file:
+  Reference `eq:FirstLaw' on page 5 undefined on input line 14
+  Reference `fig:Blueprint' on page 7 undefined on input line 20
+  Reference `tbl:timeline' on page 11 undefined on input line 36
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Found input bbl file 'main.bbl'
+Latexmk: References changed.
+Latexmk: References changed.
+Latexmk: Log file says output to 'main.pdf'
+Latexmk: Bibliography file(s) from .bcf file:
+  pustaka/pustaka.bib
+Latexmk: Summary of warnings from last run of *latex:
+  Latex failed to resolve 3 reference(s)
+Latexmk: Errors, so I did not complete making targets
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'main.log' and/or above output for details
+

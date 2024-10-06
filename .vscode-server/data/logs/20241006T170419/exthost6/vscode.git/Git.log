@@ -1,0 +1,86 @@
+2024-10-06 17:26:00.558 [info] Log level: Info
+2024-10-06 17:26:00.558 [info] Validating found git in: "git"
+2024-10-06 17:26:00.558 [info] Using git "2.43.0" from "git"
+2024-10-06 17:26:00.558 [info] > git rev-parse --show-toplevel [25ms]
+2024-10-06 17:26:00.558 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:00.558 [info] > git rev-parse --show-toplevel [19ms]
+2024-10-06 17:26:00.558 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:00.562 [info] > git rev-parse --show-toplevel [5ms]
+2024-10-06 17:26:00.562 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:00.566 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:26:00.566 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:00.570 [info] > git rev-parse --show-toplevel [0ms]
+2024-10-06 17:26:00.574 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-06 17:26:00.582 [info] Open repository: /home/braceskabane/proposal
+2024-10-06 17:26:00.590 [info] > git config --get commit.template [1ms]
+2024-10-06 17:26:00.596 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-06 17:26:00.601 [info] > git status -z -uall --find-renames=50% [2ms]
+2024-10-06 17:26:00.612 [info] > git config --get commit.template [1ms]
+2024-10-06 17:26:00.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-06 17:26:00.621 [info] > git status -z -uall --find-renames=50% [1ms]
+2024-10-06 17:26:01.108 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 17:26:01.235 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:26:01.236 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:01.300 [info] > git rev-parse --show-toplevel [7ms]
+2024-10-06 17:26:01.300 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:01.305 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-06 17:26:01.305 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:01.504 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:26:01.504 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:01.674 [info] > git rev-parse --show-toplevel [0ms]
+2024-10-06 17:26:01.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:02.554 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:26:02.554 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-06 17:26:02.472 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 17:26:03.618 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 17:26:04.395 [info] > git show --textconv :main.run.xml [7ms]
+2024-10-06 17:26:04.397 [info] > git ls-files --stage -- /home/braceskabane/proposal/main.run.xml [3ms]
+2024-10-06 17:26:45.909 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-06 17:26:45.917 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-06 17:26:45.929 [info] Open repository: /home/braceskabane
+2024-10-06 17:26:45.940 [info] > git config --get commit.template [0ms]
+2024-10-06 17:26:45.946 [info] No remotes found in the git config file.
+2024-10-06 17:26:45.947 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-06 17:26:45.987 [info] > git status -z -uall --find-renames=50% [33ms]
+2024-10-06 17:26:46.330 [info] > git config --get commit.template [9ms]
+2024-10-06 17:26:46.336 [info] No remotes found in the git config file.
+2024-10-06 17:26:46.337 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-06 17:26:46.356 [info] > git status -z -uall --find-renames=50% [13ms]
+2024-10-06 17:26:46.777 [info] > git check-ignore -v -z --stdin [307ms]
+2024-10-06 17:26:46.778 [info] > git check-ignore -v -z --stdin [300ms]
+2024-10-06 17:26:49.433 [info] > git config --get commit.template [4ms]
+2024-10-06 17:26:49.443 [info] No remotes found in the git config file.
+2024-10-06 17:26:49.444 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-06 17:26:49.475 [info] > git status -z -uall --find-renames=50% [23ms]
+2024-10-06 17:26:54.541 [info] > git config --get commit.template [2ms]
+2024-10-06 17:26:54.553 [info] No remotes found in the git config file.
+2024-10-06 17:26:54.554 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-06 17:26:54.586 [info] > git status -z -uall --find-renames=50% [19ms]
+2024-10-06 17:26:57.753 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 17:26:59.625 [info] > git config --get commit.template [1ms]
+2024-10-06 17:26:59.632 [info] No remotes found in the git config file.
+2024-10-06 17:26:59.635 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-06 17:26:59.653 [info] > git status -z -uall --find-renames=50% [12ms]
+2024-10-06 17:27:00.120 [info] > git check-ignore -v -z --stdin [9ms]
+2024-10-06 17:27:00.121 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-06 17:27:02.404 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-06 17:27:04.700 [info] No remotes found in the git config file.
+2024-10-06 17:27:04.700 [info] > git config --get commit.template [6ms]
+2024-10-06 17:27:04.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-06 17:27:04.720 [info] > git status -z -uall --find-renames=50% [12ms]
+2024-10-06 17:27:58.937 [info] > git config --get commit.template [1ms]
+2024-10-06 17:27:58.944 [info] No remotes found in the git config file.
+2024-10-06 17:27:58.945 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-06 17:27:58.967 [info] > git status -z -uall --find-renames=50% [18ms]
+2024-10-06 17:28:04.022 [info] > git config --get commit.template [1ms]
+2024-10-06 17:28:04.033 [info] No remotes found in the git config file.
+2024-10-06 17:28:04.035 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-06 17:28:04.083 [info] > git status -z -uall --find-renames=50% [39ms]
+2024-10-06 17:28:09.125 [info] > git config --get commit.template [0ms]
+2024-10-06 17:28:09.131 [info] No remotes found in the git config file.
+2024-10-06 17:28:09.132 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-06 17:28:09.151 [info] > git status -z -uall --find-renames=50% [13ms]
+2024-10-06 17:28:13.355 [info] > git config --get commit.template [0ms]
+2024-10-06 17:28:13.360 [info] No remotes found in the git config file.
+2024-10-06 17:28:13.360 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-10-06 17:28:13.376 [info] > git status -z -uall --find-renames=50% [11ms]
